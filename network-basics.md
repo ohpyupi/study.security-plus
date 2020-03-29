@@ -56,8 +56,5 @@
 * Gives admins a remote command prompt
 * Transmits message in the clear-text
 
-
-
-
-
-
+### DHCP(Dynamic Host Configuration Protocol)
+* To obtain a valid TCP/IP configuration, `ifconfig /renew`
