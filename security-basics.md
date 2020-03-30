@@ -30,7 +30,7 @@
 * RAID level 1(Disk Mirroring)
   * Ensures that all disk writes on two disks in case on disk fails
   
-*** IoT(Internet of Things)
+### IoT(Internet of Things)
 * Main vulnerabilities
   * Unable to update embedded firmware
   * Commonly shipped with default configuration including the username and password
