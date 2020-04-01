@@ -3,3 +3,4 @@
 * [Network Basics and Terminologies](network-basics.md)
 * [Introduction to Security Terminologies](security-basics.md)
 * [Security Policies and Standards](security-policies.md)
+* [Types of Attacks](types-of-attacks.md)
