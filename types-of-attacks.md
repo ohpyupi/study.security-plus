@@ -38,4 +38,6 @@
 ### Downgrade Attack
 * Forces a connection to abandon a high-quality encryption method of a lower quality, more easily broken method.
 
+### Logic Bombs
+* Triggers when certain conditions are met such as date
 
