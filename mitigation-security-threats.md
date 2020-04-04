@@ -26,3 +26,15 @@ Usually in the isolated subnet, clients will be repaired, and after successful r
   
 ### IEEE 802.1x
 Ensures the access control for both wired and wireless networks
+
+### Normalization
+A process of organizing data tables and attributes to reduce the data redundancy
+
+### What Secure DevOps entails
+* Security Automation
+* Continuous Integration
+* Immutable Systems
+* Infrastructure as Code
+
+### Wrappers
+These provide granular control of acess to specific network services
