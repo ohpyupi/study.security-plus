@@ -34,3 +34,5 @@
 * Main vulnerabilities
   * Unable to update embedded firmware
   * Commonly shipped with default configuration including the username and password
+* Examples
+  * Watches, lightbulbs, UAVs, drones, internet cameras
