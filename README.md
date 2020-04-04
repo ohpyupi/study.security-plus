@@ -4,3 +4,4 @@
 * [Introduction to Security Terminologies](security-basics.md)
 * [Security Policies and Standards](security-policies.md)
 * [Types of Attacks](types-of-attacks.md)
+* [Mitigating Security Threats](mitigation-security-threats.md)
