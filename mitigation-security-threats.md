@@ -1,5 +1,4 @@
 # Mitigating Security Threats
----
 ### Mitigations for Security Threats
 * Dictionary attacks
   * Password complexity requirements
