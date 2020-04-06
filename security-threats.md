@@ -1,5 +1,4 @@
 # System Security Threats
----
 ### Rootkits
 * A collection of computer software designed to enable access to a computer or an area of its software that is not otherwise allowed and often masks its existence or the existence of other software
 
