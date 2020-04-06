@@ -1,6 +1,4 @@
 # Security Policies and Standards
----
-
 ### Security Policy
 * Does not necessarily require users to read and sign
 * Compoeses of subdocuments
