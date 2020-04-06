@@ -1,6 +1,4 @@
 # Introduction to Security Terminologies
----
-
 ### Security Roles
 * Custodian
   * Responsible for maintaining and protecting data based on security policies
