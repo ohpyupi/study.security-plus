@@ -1,5 +1,4 @@
 # Network Basics and Terminologiges
----
 ### OSI Model
 * Layer 7: Application
 * Layer 6: Presentation
