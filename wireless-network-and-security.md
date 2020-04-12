@@ -76,3 +76,7 @@ Prevents connections from unauthorized wireless clients
 ### RADIUS Federation
 * Centralizes authentication
 * Each devices such as VPN appliances forward user authentication requests to the central RADIUS server
+* Clients
+  * Switches
+  * Wireless routers
+  * VPN concentrators
