@@ -15,7 +15,7 @@
 * A logical division of a computer network
 * Any computer connected to a switch is in the same broadcast domain.
 
-### ACL(Access Control List)
+### ACL (Access Control List)
 * Top-down - A first rule to be executed. If the first rule does not match, a subsequent rule to be executed in the top-down order
 * Last rule is all-deny - If no rule matched, the request to be rejected.
 
@@ -28,25 +28,25 @@
 * Active-active - Both load balancers are active
 * Active-passive - Only one load balancer is active while another is on standby mode.
 
-### NIC(Network Interface Card)
+### NIC (Network Interface Card)
 * Allow a system communicate on a network
 
-### Switch(Layer 2)
+### Switch (Layer 2)
 * All traffic copied to the port 24 - normally used to for monitoring
 
-### VLAN(Virtual Local Lan)
+### VLAN (Virtual Local Lan)
 * Improves network throughput
 
-### RDP(Remote Desktop Protocol)
+### RDP (Remote Desktop Protocol)
 * TCP port 3389
 
-### NTP(Network Time Protocol)
+### NTP (Network Time Protocol)
 * UDP port 123
 
-### DNS(Domain Name System)
+### DNS (Domain Name System)
 * Queries on UDP port 53
 
-### TFTP(Trivial FTP)
+### TFTP (Trivial FTP)
 * UDP port 59
 * Store files without authentication
 
@@ -55,5 +55,5 @@
 * Gives admins a remote command prompt
 * Transmits message in the clear-text
 
-### DHCP(Dynamic Host Configuration Protocol)
+### DHCP (Dynamic Host Configuration Protocol)
 * To obtain a valid TCP/IP configuration, `ifconfig /renew`
