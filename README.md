@@ -12,3 +12,4 @@
 * [Introduction to Cryptography](intro-to-cryptography.md)
 * [Managing a Public Key Infrastructure](manage-pki.md)
 * [Physical Security](physical-security.md)
+* [Risk Analysis](risk-analysis.md)
