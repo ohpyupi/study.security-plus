@@ -14,3 +14,4 @@
 * [Physical Security](physical-security.md)
 * [Risk Analysis](risk-analysis.md)
 * [Disaster Recovery and Business Continuity](drp-and-business-continuity.md)
+* [Security Assessment and Audits](security-assessment-and-audits.md)
