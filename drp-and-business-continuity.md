@@ -21,9 +21,9 @@
   * Often refered to as nothing more than leased space
 * Warm site
   * Are functional only once the primary center goes down
-  * Data backups are doen periodically
+  * Data backups are done periodically
 * Hot site
-  * Constly
+  * Costly
   * Immediately available, and constantly synchronizes data from the primary center
   
 ### Recovery Plans
