@@ -17,7 +17,7 @@ Converts data from a format a network can accept to a format that another networ
   * Configues inbound firewall rules on a Windows host
   
 ### Web application firewall
-Monitors and blocks HTTP traffic based on configued policy
+Monitors and blocks HTTP traffic based on configured policy
 
 ### Web security gateway
 * Provides deep packet inspection
