@@ -58,7 +58,7 @@ Assesses the likelihood of risks that will impede normal business operations and
 * Embezzlement
   * Theft or misappropriation of funds placed in one's trust or belonging to one's employer
 * Risk Transfer
-  * Shifts some of all of the burden of risks to a third party
+  * Shifts some or all of the burden of risks to a third party
 * Risk Avoidance
   * Deciding to invest heavily in a new product for an uncertain markey is a gamble. Deciding against it would be classified as risk avoidance
 * Risk Acceptance
