@@ -16,3 +16,4 @@
 * [Disaster Recovery and Business Continuity](drp-and-business-continuity.md)
 * [Security Assessment and Audits](security-assessment-and-audits.md)
 * [Introduction to Computer Forensics and Incident Response](forensic-incident-response.md)
+* [Understanding Monitoring and Auditing](monitoring-and-auditing.md)
