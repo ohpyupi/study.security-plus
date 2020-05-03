@@ -45,7 +45,7 @@
 * BYOD (Bring Your Own Device)
   * Must ensure anti-virus app is installed on devices
   
-### PII(Personally Identifiable Information)
+### PII (Personally Identifiable Information)
 * Examples
   * Mobile Phone Number
   * Digital Certificate
