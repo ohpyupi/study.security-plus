@@ -12,7 +12,7 @@
 
 ### PDS (Protected Distribution System)
 * a US goverment term
-* Dictates that cables should not be easily physical accessible, and one way to achieve this is to install calbes in conduits
+* Dictates that cables should not be easily physical accessible, and one way to achieve this is to install cables in conduits
   
 ### Misc.
 * To secure switched and routers?
