@@ -39,7 +39,7 @@
 
 ### Terms.
 * Chain of Custody
-  * Involves documenting evidence being collected throughly and legally while ensuring that the evidence cannot be tampered with
+  * Involves documenting evidence being collected thoroughly and legally while ensuring that the evidence cannot be tampered with
   * Requires thoroughly documenting the state of seized equipment
   * Preserving, protecting, and documenting evidence
 * Order of Volatility
