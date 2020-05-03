@@ -1,5 +1,5 @@
 # Types of Attacks
-### ARP(Address Resolution Protocol) Poisoning
+### ARP (Address Resolution Protocol) Poisoning
 * Man in the middle attack
 * Occurs when the hacker alters the ARP cache to redirect communication to a particular IP address to the wrong MAC address
 * Preventions:
