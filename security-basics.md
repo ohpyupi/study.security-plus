@@ -25,7 +25,7 @@
   
 ### RAID (Redundant Array of Independent Disks)
 * Groups disks together for the purpose of performance and data availability.
-* RAID level 1(Disk Mirroring)
+* RAID level 1 (Disk Mirroring)
   * Ensures that all disk writes on two disks in case on disk fails
   
 ### IoT (Internet of Things)
