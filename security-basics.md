@@ -23,12 +23,12 @@
   * Design in a way that users have only the permissions they need to do their jobs
 * Separation of Duties
   
-### RAID(Redundant Array of Independent Disks)
+### RAID (Redundant Array of Independent Disks)
 * Groups disks together for the purpose of performance and data availability.
 * RAID level 1(Disk Mirroring)
   * Ensures that all disk writes on two disks in case on disk fails
   
-### IoT(Internet of Things)
+### IoT (Internet of Things)
 * Main vulnerabilities
   * Unable to update embedded firmware
   * Commonly shipped with default configuration including the username and password
