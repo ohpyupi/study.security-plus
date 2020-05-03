@@ -56,7 +56,7 @@
 * MTBF (Mean Time between Failures)
 * MTTF (Mean Time to Failure)
 * RPO (Recovery Point Objective)
-  * The amount of that that can elapse after a failure before system and data resume normal operation
+  * The amount of that can elapse after a failure before system and data resume normal operation
   * Can exceed the amount of time
 * RTP (Recovery Time Objective)
   * Denotes the amount of time it will take after an unexpected failure for systems to resum normal operation
