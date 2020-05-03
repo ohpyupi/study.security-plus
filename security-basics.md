@@ -16,7 +16,7 @@
   * Download and run exploits created by others without having a full understanding of the exploits
 * Penetration Testers
 * Scriptivist
-  * Use hacking to promot a political or ideological agenda
+  * Use hacking to promote a political or ideological agenda
   
 ### Security Principles
 * Least Principle
