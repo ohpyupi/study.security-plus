@@ -34,6 +34,10 @@
 ### Social Engineering
 * Authority, Urgency, and Trust
 
+### SYN flood
+* Half-open connections
+* A form of DoS attack
+
 ### RAT (Remote Access Trojan)
 * Typically ports 135 and 445
 * Different than worm since its installed by users
