@@ -28,6 +28,9 @@
 ### Hoaxes
 * Email messages received giving a false story and asking the user to take some form of action usch as forwarding the message on to others
 
+### Xmas Attack
+* Creates a TCP packet that turns on flags to scan systems
+
 ### Social Engineering
 * Authority, Urgency, and Trust
 
