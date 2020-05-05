@@ -26,7 +26,7 @@ A central database that can securely authenticate users or computers
 
 ### Authentication/Authorization Frameworks
 * OpenID Connect
-  * Works with OAUTH and supports REST
+  * Works with OAuth and supports REST
   * Used for authentication while OAuth for authorization
 * OAuth
 * Shibboleth
