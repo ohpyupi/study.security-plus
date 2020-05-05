@@ -28,7 +28,10 @@ A central database that can securely authenticate users or computers
 * OAUTH
 * Shibboleth
   * Popular in UNIX and Linux environments
-
+  
+### Kerberos
+* A key distribution center and provides keys with certain time limits
+* Can be affected by NTP (Network Time Protocol)
 
 ### Authentication devices
 * Key fob
