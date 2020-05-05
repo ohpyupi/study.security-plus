@@ -28,6 +28,7 @@
 * Hot site
   * Costly
   * Immediately available, and constantly synchronizes data from the primary center
+  * Set up and ready to go -> easy to test
   
 ### Recovery Plans
 * DRP (Disaster Recovery Plan)
