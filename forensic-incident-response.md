@@ -46,7 +46,7 @@
   * Determines what type of data is most easily lost - for example, data in RAM versus data stored on a DVD
   * Electronic memory should be collected first
   * Hard disk, USB, and CMOS data exist even without power
-  * RAM = SWAP < Hard Disk < DVD-R
+  * Processor Cache < RAM < SWAP < Hard Disk < DVD-R
 * Damage Control
   * Involves minimizing further damage in the event of an unfavorable event
 * Time Offset
