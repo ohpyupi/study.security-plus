@@ -58,6 +58,9 @@
 ### UTM (Unified Threat management) Firewall
 * Includes firewall, IDS, antivirus, and some other devices
 
+### VDE (Virtual Desktop Environment)
+* Ensures all workstations have a common configuration, do not contain a rogue software installation, and all patches are ketp up do date
+
 ### Terminologies
 * Sideloading
   * Allows to install an application without using an official app store
