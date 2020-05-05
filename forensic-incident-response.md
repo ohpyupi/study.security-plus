@@ -1,5 +1,6 @@
 # Introduction to Computer Forensic and Incident Response
 ### Incident Response
+* Preparation, recovery, and containment (No Snapshot)
 * Orders
   1. Analysis of the severity of an event
   2. Determines which other personnel must be called in
