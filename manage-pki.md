@@ -17,6 +17,8 @@
   * Can query a CA for a single PKI certificate serial number instead of downloading a list of all all revoked certificate serial numbers, as is the case with CRL
 * Certificate Pinning
   * Associates a host with its related public key
+* CSR (Certificate Signing Request)
+  * Submitted to CA to request a digital certificate
   
 ### X.509 Standard
 Defines a hierarchy of certificate authorities that issue, renew, and revoke certificates
