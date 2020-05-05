@@ -55,6 +55,9 @@
 * Applying encryption over VoIP can add delay
 * Works with SIP (Session Initiation Protocol) and RTP (Real-time Transport Protocol)
 
+### UTM (Unified Threat management) Firewall
+* Includes firewall, IDS, antivirus, and some other devices
+
 ### Terminologies
 * Sideloading
   * Allows to install an application without using an official app store
