@@ -9,6 +9,9 @@
 * RAID 5+1
   * A mirrored RAID 5 array
   
+### BCP (Business Continuity Plan)
+* Identifies critical systems and components that need to be safe and protected
+  
 ### Backup strategies
 * Differential backups
   * Archive data that has changed the last full backup
