@@ -23,6 +23,10 @@ Monitors and blocks HTTP traffic based on configured policy
 * Provides deep packet inspection
 * Detects/deals with malware
 
+### Application Container
+* Isolates applications from the host opeating system
+* Can mitigate the vulnerabilities of older and legacy applications
+
 ### Ports
 * SSH - TCP 22
 * RDP - TCP 3389
