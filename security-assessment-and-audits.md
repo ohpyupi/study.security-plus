@@ -68,4 +68,5 @@
   * Malicious users will try default admin accounts before moving on
 * DNS Servers must replicate only with other known DNS servers to prevent replicating DNS records to rogue DNS hosts
 * CMOS passwords prevent unauthorized persons from bootring from USB or CD to bypass operating system security
-
+* Third-party source code escrow
+  * In case the vendor later goes out of business, it would assist with granting you the source code. So you can maintain the source code yourself
