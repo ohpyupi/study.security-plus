@@ -34,6 +34,10 @@ A central database that can securely authenticate users or computers
 * A key distribution center and provides keys with certain time limits
 * Can be affected by NTP (Network Time Protocol)
 
+### Biometric Authentication
+* CER (Crossover Error Rate)
+ * The point where false rejections and false acceptance are equal
+
 ### Authentication devices
 * Key fob
   * Displays an authentication passcode that a user enters in addition to other data such as username/password to gain access to a system or network resource
