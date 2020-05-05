@@ -43,6 +43,8 @@ A central database that can securely authenticate users or computers
   * Displays an authentication passcode that a user enters in addition to other data such as username/password to gain access to a system or network resource
 * Smartcards
   * Contains an embedded chip that has personal identification data such as encryption keys or PKI digital certificates
+* Proximity cards
+ * A hands-free solution as they only need to be within close range for the reader to work correctly
   
 ### Misc.
 * A computer PKI certificate can grant access to an 802.1x-configured wireless network
