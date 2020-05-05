@@ -71,3 +71,5 @@
   * Ensures that data can travel in only one direction when collecting digital evidence from storage media, such as a digital camera's internal memory
 * Ethernet switches isolate each port into its own collision domain
   * When capturing network traffic, this means you will not see traffic to or from other computers plugged into other switch ports, other than broadcast and multicast packets
+* Swap files
+  * Temporary files on a hard disk that are used as virtual memory
