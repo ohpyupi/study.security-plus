@@ -11,6 +11,8 @@
 * Stores keys in the OS
 
 ### DLP (Data Loss Prevention)
+* Limits unapproved technologies
+  * For example, limit the risk associated with unapproved USB devices to company documents
 
 ### TPM (Trusted Platform Module)
 * Stores keys in a tamper-resistant chip similar to an internal Smartcard
