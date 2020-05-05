@@ -63,3 +63,6 @@
 
 ### DHCP (Dynamic Host Configuration Protocol)
 * To obtain a valid TCP/IP configuration, `ifconfig /renew`
+
+### SDN (Software-degined Network)
+* Provides scalability
