@@ -31,6 +31,10 @@
 ### Social Engineering
 * Authority, Urgency, and Trust
 
+### RAT (Remote Access Trojan)
+* Typically ports 135 and 445
+* Different than worm since its installed by users
+
 ### Refactoring Attack
 * Refactors an internal code while maintaining the external behavior so that it appears to be behaving normally
 
