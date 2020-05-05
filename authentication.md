@@ -26,8 +26,11 @@ A central database that can securely authenticate users or computers
 
 ### Authentication/Authorization Frameworks
 * OpenID Connect
-* OAUTH
+  * Works with OAUTH and supports REST
+  * Used for authentication while OAuth for authorization
+* OAuth
 * Shibboleth
+  * Uses SAML
   * Popular in UNIX and Linux environments
   
 ### Kerberos
