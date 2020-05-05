@@ -22,6 +22,7 @@ A central database that can securely authenticate users or computers
 * Involves three-way handshake to establish session
 * After session establishment, peers must periodically prove their identity by way of a changing value based on a shared secret
 * A shared secret (for example, password) is known by both parties but never sent over the network
+* Designed to stop a session hijack
 
 ### Authentication/Authorization Frameworks
 * OpenID Connect
