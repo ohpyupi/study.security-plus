@@ -53,6 +53,7 @@
     
 ### VoIP
 * Applying encryption over VoIP can add delay
+* Works with SIP (Session Initiation Protocol) and RTP (Real-time Transport Protocol)
 
 ### Terminologies
 * Sideloading
