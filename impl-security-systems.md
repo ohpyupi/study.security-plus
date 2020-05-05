@@ -61,6 +61,9 @@
 ### VDE (Virtual Desktop Environment)
 * Ensures all workstations have a common configuration, do not contain a rogue software installation, and all patches are ketp up do date
 
+### Immutable Server
+* A server that has a configuration for applications and the OS that cannot be changed
+
 ### Terminologies
 * Sideloading
   * Allows to install an application without using an official app store
