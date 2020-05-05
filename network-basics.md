@@ -19,6 +19,12 @@
 * Top-down - A first rule to be executed. If the first rule does not match, a subsequent rule to be executed in the top-down order
 * Last rule is all-deny - If no rule matched, the request to be rejected.
 
+### IP Addresses
+* /24 -> 72 IPs
+* /26 -> 64
+* /27 -> 32
+* /29 -> 8
+
 ### Load Balancer
 * Algorithms
   * Round Robin - Distribute requests in a circular manner.
