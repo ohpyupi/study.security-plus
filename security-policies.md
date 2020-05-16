@@ -69,4 +69,4 @@
   * The most effective way of ensuring confidential data cannot be retrieved
 * Format hard disks
   * Wipes the FAT (File Allocation Table) - the file data blocks can remain intact on disks.
-* Providing paper ducment shredders to workstations
+* Providing paper document shredders to workstations
