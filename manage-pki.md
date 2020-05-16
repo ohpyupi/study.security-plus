@@ -44,7 +44,7 @@ City: Memphis
   
 ### Misc.
 * Key escrow
-  * Refers to a trusted thir party with a copy of decryption keys.
+  * Refers to a trusted third party with a copy of decryption keys.
   * A court order may be necessary to use these keys under certain circumstances
 * PFX (Personal Information Exchange Format) and P12 file formats are often used to store private keys and should be password protected
 
