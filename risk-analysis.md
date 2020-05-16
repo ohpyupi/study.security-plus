@@ -60,7 +60,7 @@ Assesses the likelihood of risks that will impede normal business operations and
 * Risk Transfer
   * Shifts some or all of the burden of risks to a third party
 * Risk Avoidance
-  * Deciding to invest heavily in a new product for an uncertain markey is a gamble. Deciding against it would be classified as risk avoidance
+  * Deciding to invest heavily in a new product for an uncertain market is a gamble. Deciding against it would be classified as risk avoidance
 * Risk Acceptance
   * Accepting the potential consequences of a threat
   
