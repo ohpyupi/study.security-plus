@@ -19,7 +19,6 @@
 
 ### Ports
 * FTP -> TCP 20/21
-* RDP -> TCP 3389
 
 ### Security Controls
 * Technical controls
