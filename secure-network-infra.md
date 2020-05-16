@@ -34,10 +34,6 @@ Monitors and blocks HTTP traffic based on configured policy
 * Isolates applications from the host opeating system
 * Can mitigate the vulnerabilities of older and legacy applications
 
-### Ports
-* SSH - TCP 22
-* RDP - TCP 3389
-
 ### Proxy Server
 * Retrieves content for clients
 * Authenticate clients (login page for free WiFi network)
