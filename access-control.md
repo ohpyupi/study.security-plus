@@ -9,7 +9,7 @@
   * Places users into roles that have been granted groups of permissions to perform a job function
 * Rule-based Access Control
   * For example, rules defined in network routers
-* Attribute-bases Access Control
+* Attribute-based Access Control
   * An access control using conditions based on attributes such as department, project, and security clearance level
 * Time-of-data Access Control
 
