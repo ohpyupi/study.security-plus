@@ -22,7 +22,7 @@
 
 ### Security Controls
 * Technical controls
-  * Includes amy hardware or software solution using access control in adherence with established security policies
+  * Includes any hardware or software solution using access control in adherence with established security policies
   * Protects computing resources such as files, web sites, databases, and so on
   * Same as logical controls
 * Physical controls
