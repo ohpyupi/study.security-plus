@@ -1,7 +1,7 @@
 # Securing the Network Infrastructure
 
 ### Media Gateway
-Converts data from a format a network can accept to a format that another network can accept, such as a PBX to the internal Ethernet netowkr.
+Converts data from a format a network can accept to a format that another network can accept, such as a PBX to the internal Ethernet network.
 
 ### NAC (Network Access Control)
 * Ensures connecting devices are compliant with configured requirements before allowing network access
