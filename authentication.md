@@ -1,4 +1,9 @@
 # Authentication
+### Types of Multi-factor Authentication
+* Type 1 - Knowledge
+* Type 2 - Posession
+* Type 3 - Inheritance
+
 ### TACACS+ (Terminal Access Controller Access Control System)
 * Cisco proprietary network access protocol that uses the reliable TCP transport mechanism
 * Can be used instead of RADIUS (But it didn't succeed RADIUS)
