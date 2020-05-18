@@ -3,11 +3,18 @@
 ### Security Audit Tools
 * Protocol Analyzer
   * See what type of network traffic is being transmitted on the network
+  * Can be referred to as packer sniffer though it can have other meanings
+  * Tools
+    * tcpdump
 * Vulnerability Scanner
   * Scan computers for known security violations and weakness
   * Determine which machines are secure and which are not
+  * Tools
+    * nessus
 * Port Scanner
   * Identifies open ports on hosts
+  * Tools
+    * nmap
 * Network mapper
   * Maps out a network's layout and identify operating systems running on hosts
   
