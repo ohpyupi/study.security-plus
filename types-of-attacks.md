@@ -64,6 +64,10 @@
   * Targets a small group
 * Whaling
   * Targets a specific individual, for example CEO
+  
+### Banner Grabbing
+* A process where someone connects to a web server and gathers information.
+* Can be done through netcat easily
 
 ### Hacking Attack Stages
 * Passive Reconnaissance
