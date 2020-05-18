@@ -45,6 +45,12 @@
 ### Data Policy
 * Wiping, Disposing, Retention, Policy, and Storage
 
+### IPSec
+* Tunneling mode
+  * Encrypts entire packets (the entire contents)
+* Transport mode
+  * Encrypts only data, not the header
+
 ### Data Communication
 * NFS
 * SATCOM (Satelite Coummunication)
