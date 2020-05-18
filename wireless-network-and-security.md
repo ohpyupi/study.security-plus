@@ -19,9 +19,10 @@
   
 ### WPA (Wi-Fi Protected Access)
 * Encrypts packet - Confidentiality
-* Verify tampering - Integrity
+* Uses TKIP (Temporal key Integrity Protocol), verifying tampering
 
 ### WPA2 (Wi-Fi Protected Access version 2)
+* Capable of using TKIP or the more advanced AES algorithm
 * WPA2 PSK (Pre-shared Key)
   * WPA and WPA2 PSK are for home use, and uses passphrase
 * WPA2 Personal
