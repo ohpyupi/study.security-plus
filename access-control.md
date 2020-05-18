@@ -35,6 +35,8 @@
   * Prevents security breaches, such as the theft as a laptop
 * Deterrent controls
   * Discourages malicious or illegal actions but do not necessarily prevents them from happening
+  * Are used to warn attackers
+  * For example, lighting
 * Detective controls
   * Recognizes malicious activity and generates a notification
 * Compensating controls
