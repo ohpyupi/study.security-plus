@@ -74,6 +74,13 @@
 ### Immutable Server
 * A server that has a configuration for applications and the OS that cannot be changed
 
+### Hypervisor
+* A software that creates and runs virtual machines
+* Type I
+  * Bare metal
+* Type II
+  * Has host OS
+
 ### Terminologies
 * Sideloading
   * Allows to install an application without using an official app store
