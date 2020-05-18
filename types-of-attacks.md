@@ -59,3 +59,8 @@
 * a URL named very simlar so when users mistype the site name, it goes to a fake site
 * For example googlr.com
 
+### Phishing
+* Spear phising
+  * Targets a small group
+* Whaling
+  * Targets a specific individual, for example CEO
