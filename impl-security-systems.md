@@ -76,3 +76,5 @@
 * EMI (Electromagnetic Interference)
 * Degaussing
   * Removes magnetic field generated from a device
+* FDE (Full Disk Encryption)
+* SED (Self-encrypted Drives)
