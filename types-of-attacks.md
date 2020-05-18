@@ -51,3 +51,7 @@
 ### Logic Bombs
 * Triggers when certain conditions are met such as date
 
+### Pivot
+* Occurs when you successfully exploit one machine and use that to exploit another
+* Can be internal or external
+
