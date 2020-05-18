@@ -17,6 +17,8 @@
   * RSA
   * DHE (Diffi-Hellman Ephemeral)
   * ECDHE (Elliptic Curve Diffi-Hellman Ephemeral)
+  * ECC (Eliptic-curve cryptography)
+    * Used most often in movile devices
 * Hashing
   * MD5 (Message Digest 5)
   * SHA (Secure Hashing Algorithm)
