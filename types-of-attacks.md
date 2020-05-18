@@ -55,3 +55,7 @@
 * Occurs when you successfully exploit one machine and use that to exploit another
 * Can be internal or external
 
+### Typosquatting
+* a URL named very simlar so when users mistype the site name, it goes to a fake site
+* For example googlr.com
+
