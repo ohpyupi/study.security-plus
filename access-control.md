@@ -1,6 +1,7 @@
 # Access Control
 ### Access Control Models
 * Mandatory Access Model (MAC)
+  * Enforces rules of the OS
   * Uses security labels to classify data
 * Discretionary Access Control (DAC)
   * Leaves control of security to the data owner
