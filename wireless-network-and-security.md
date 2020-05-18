@@ -23,6 +23,7 @@
 
 ### WPA2 (Wi-Fi Protected Access version 2)
 * Capable of using TKIP or the more advanced AES algorithm
+* Developed by WiFi Alliance and implemented the requirement of IEEE 802.11i
 * WPA2 PSK (Pre-shared Key)
   * WPA and WPA2 PSK are for home use, and uses passphrase
 * WPA2 Personal
