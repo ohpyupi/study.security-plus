@@ -38,7 +38,9 @@
 * BYOD (Bring your own devices)
   * Needs a separate network for BYOD devices
 * CYOD (Choose your own devices)
-* COPE (Corporate-owned, Personally-enabled)
+* COPE(Corporate-owned, Personally-enabled)
+  * Security features enabled
+    * Cellular data, remote wipe, location tracking, MDM
   
 ### Data Policy
 * Wiping, Disposing, Retention, Policy, and Storage
