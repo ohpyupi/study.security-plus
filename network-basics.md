@@ -20,10 +20,25 @@
 * Last rule is all-deny - If no rule matched, the request to be rejected.
 
 ### IP Addresses
-* /24 -> 72 IPs
-* /26 -> 64
-* /27 -> 32
-* /29 -> 8
+* Calculating subnets and hosts
+  * Class A 10.1.1.0/24
+    * network bits = 8
+    * subnet bits = 24 - 8 = 16
+    * host bits = 32 - 24 = 8
+    * number of subnets = 2 ^ 16 = 65,536
+    * number of hosts per subnet = 2^8 - 2 = 254
+  * Class B 172.15.55.0/21
+    * network bits = 16
+    * subnet bits = 21 - 16 = 5
+    * host bits = 32 - 21 = 11
+    * number of subnets = 2^5 = 32
+    * number of hosts per subnet = 2^11 - 2 = 2046
+  * Class C 192.168.11.0/26
+    * network bits = 24
+    * subnet bits = 26 - 24 = 2
+    * host bits = 32 - 26 = 8
+    * number of subnets = 2^2 = 4
+    * number of hosts per subnet = 2^6 - 2 =  62
 
 ### Load Balancer
 * Algorithms
