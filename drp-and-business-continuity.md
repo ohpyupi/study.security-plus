@@ -65,11 +65,13 @@
 * RTP (Recovery Time Objective)
   * Denotes the amount of time it will take after an unexpected failure for systems to resum normal operation
     
- ### Privacy
- * Privacy Impact Assessment
+### Privacy
+* Privacy Impact Assessment
   * Used to determine the response if PII security is breached
- * privacy Threshhold Assessment
+* privacy Threshhold Assessment
   * identifies systems or data that process private information
+* PHI (Protected Health Information)
+* PII (Personally Identifiable Information)
     
 ### Misc.
 * SAN (Storage Area Network)
