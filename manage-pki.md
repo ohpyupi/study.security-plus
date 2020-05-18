@@ -19,6 +19,8 @@
   * Associates a host with its related public key
 * CSR (Certificate Signing Request)
   * Submitted to CA to request a digital certificate
+* Trust Model
+  * Automatically updates browsers with a list of certificates for applications
   
 ### X.509 Standard
 Defines a hierarchy of certificate authorities that issue, renew, and revoke certificates
