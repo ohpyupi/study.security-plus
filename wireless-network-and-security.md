@@ -39,6 +39,15 @@
 * Used by WPA standard
 * Changes encryption key per packet
 
+### WAP (Wireless Access Point)
+* Fat WAP
+  * Independent to be separated from other network devices
+  * Has everything
+  * Not ideal in large enterprise or college campus
+* Thin WAP
+  * All the functions controlled in a central device, like a wireless switch or wireless LAN controller
+  * All the settings can be configured automatically by central device in a remote location
+
 ### Wireless Modes
 * Isolation mode
   * Prevents wireless clients on the same WLAN from seeing one another
