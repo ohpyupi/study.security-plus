@@ -39,7 +39,7 @@
 * Deterrent controls
   * Discourages malicious or illegal actions but do not necessarily prevents them from happening
   * Are used to warn attackers
-  * For example, lighting
+  * For example, lighting, CAPTCHA
 * Detective controls
   * Recognizes malicious activity and generates a notification
 * Compensating controls
