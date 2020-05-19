@@ -17,8 +17,9 @@
     * nmap
 * Network mapper
   * Maps out a network's layout and identify operating systems running on hosts
+* Exploit Framework
+  * A tool to find vulnerabilities and attempting to exploit them
   
-
 ### Security Audits
 * Vulnerability Assessment
   * identifies and priotizes potential threats
