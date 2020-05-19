@@ -80,6 +80,14 @@
   * Bare metal
 * Type II
   * Has host OS
+  
+### Cloud Services
+* IaaS
+  * network infrastructure
+* PaaS
+  * infrastructure for hosted applications
+* SaaS
+  * applications
 
 ### Terminologies
 * Sideloading
