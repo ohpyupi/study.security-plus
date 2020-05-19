@@ -76,6 +76,15 @@
 * Gives admins a remote command prompt
 * Transmits message in the clear-text
 
+### SCP
+* TCP port 22
+
+### POP3
+* TCP port 110
+
+### SNMP (Simple Network Management Protocol)
+* TCP port 161
+
 ### DHCP (Dynamic Host Configuration Protocol)
 * To obtain a valid TCP/IP configuration, `ifconfig /renew`
 
