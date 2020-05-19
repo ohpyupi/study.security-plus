@@ -18,6 +18,7 @@
 * A pin on the back of a router
   
 ### WEP (Wired Equivalent Privacy)
+* Uses RC4
 * IV attack
   * Extracts 24-bit IV and a WEP key from packets
   
@@ -26,7 +27,7 @@
 * Uses TKIP (Temporal key Integrity Protocol), verifying tampering
 
 ### WPA2 (Wi-Fi Protected Access version 2)
-* Capable of using TKIP or the more advanced AES algorithm
+* Capable of using TKIP or the more advanced AES algorithm and CCMP
 * Developed by WiFi Alliance and implemented the requirement of IEEE 802.11i
 * WPA2 PSK (Pre-shared Key)
   * WPA and WPA2 PSK are for home use, and uses passphrase
