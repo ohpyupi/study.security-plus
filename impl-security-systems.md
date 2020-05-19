@@ -39,6 +39,7 @@
   * Needs a separate network for BYOD devices
 * CYOD (Choose your own devices)
 * COPE(Corporate-owned, Personally-enabled)
+  * The most secure solution
   * Security features enabled
     * Cellular data, remote wipe, location tracking, MDM
   
