@@ -38,3 +38,6 @@ A process of organizing data tables and attributes to reduce the data redundancy
 
 ### Wrappers
 These provide granular control of acess to specific network services
+
+### Misc.
+* BIOS passwords is the most effective technique for the BIOS integrity
