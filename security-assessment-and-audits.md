@@ -50,7 +50,7 @@
   * WPA2 PSK (Wi-Fi Protected Access Pre-shared Key)
   * WPA2 Enterprise
     * Requires a central authentication server
-* 801.2x
+* 802.1x
   * Requires that connecting hosts or users first authenticate with a central authentication server before even gaining access to the network
   * More secure than WEP and WPA PSK
 * RADIUS (Remote Authentication Dial-In User Service)
