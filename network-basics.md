@@ -85,6 +85,10 @@
 ### SNMP (Simple Network Management Protocol)
 * TCP port 161
 
+### LDAP
+* TCP port 389
+* Secured LDAP -> TCP port 636
+
 ### DHCP (Dynamic Host Configuration Protocol)
 * To obtain a valid TCP/IP configuration, `ifconfig /renew`
 
