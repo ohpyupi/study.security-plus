@@ -41,9 +41,12 @@
   * A collection of purposely vulnerable hosts to track malicious activity
 * Design Review
   * A process whereby the original project objectives are compared against current progress to ensure that the objectives are being met
+* Usage audit and review
+  * Documents how users actually use their account permissions
+* Permission auditing and review
 
 ### Passive Security Testing
-  * Capturing  network traffic
+  * Capturing network traffic
 
 ### Protocols
 * WPA2
