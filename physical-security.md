@@ -13,7 +13,10 @@
 ### PDS (Protected Distribution System)
 * a US goverment term
 * Dictates that cables should not be easily physical accessible, and one way to achieve this is to install cables in conduits
-  
+
+### CAT 5e STP cable
+* Minimizes the risk of EMI and reduce data emanations
+
 ### Misc.
 * To secure switched and routers?
   1. Set a console port password
