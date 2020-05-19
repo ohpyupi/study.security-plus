@@ -17,6 +17,13 @@
 * Penetration Testers
 * Scriptivist
   * Use hacking to promote a political or ideological agenda
+
+### Types of Testing
+* White-box Testing
+* Black-box Testing
+* Gray-box Testing
+* A credentialed Scan
+  * Provides a set of credentials for various systems
   
 ### Security Principles
 * Least Principle
