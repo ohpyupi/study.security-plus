@@ -75,3 +75,6 @@
   * For example, gathering information from sources such as archive.og, netcraft.com, or social media
 * Active Reconnaissance
   * Has a target communication
+
+### Shimming
+* An attacker places malware between an application and other files which intercepts the communication of the file
