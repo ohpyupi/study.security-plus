@@ -13,6 +13,10 @@
   * Divided into smaller bands (channels) that slightly overlap
   * Any device that uses the same range can interfere the network, e.g. microwave oven
   
+### WPS (Wi-Fi Protected Setup)
+* A network security standard to create a secure wireless home network
+* A pin on the back of a router
+  
 ### WEP (Wired Equivalent Privacy)
 * IV attack
   * Extracts 24-bit IV and a WEP key from packets
