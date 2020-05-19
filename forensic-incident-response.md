@@ -42,6 +42,7 @@
 * Chain of Custody
   * Involves documenting evidence being collected thoroughly and legally while ensuring that the evidence cannot be tampered with
   * Requires thoroughly documenting the state of seized equipment
+  * The state of a computer can be represented by screenshots
   * Preserving, protecting, and documenting evidence
 * Order of Volatility
   * Determines what type of data is most easily lost - for example, data in RAM versus data stored on a DVD
