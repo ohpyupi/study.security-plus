@@ -25,6 +25,7 @@ Usually in the isolated subnet, clients will be repaired, and after successful r
   
 ### IEEE 802.1x
 Ensures the access control for both wired and wireless networks
+* Vulnerable to MAC spoofing
 
 ### Normalization
 A process of organizing data tables and attributes to reduce the data redundancy
