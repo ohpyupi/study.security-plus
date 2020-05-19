@@ -9,6 +9,9 @@
 * RAID 5+1
   * A mirrored RAID 5 array
   
+### WORM storage (Write-once Read-many)
+* Works with high-capacity storage where once the data is written, it cannot be edited
+  
 ### BCP (Business Continuity Plan)
 * Identifies critical systems and components that need to be safe and protected
   
