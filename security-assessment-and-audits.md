@@ -45,6 +45,8 @@
 * Usage audit and review
   * Documents how users actually use their account permissions
 * Permission auditing and review
+* Time-of-day restrictions
+  * Nobody needs to access the lab at 3AM
 
 ### Passive Security Testing
   * Capturing network traffic
