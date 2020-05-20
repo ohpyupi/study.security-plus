@@ -53,6 +53,7 @@
 
 ### Protocols
 * WPA2
+  * Supported by 802.11i
   * WPA2 PSK (Wi-Fi Protected Access Pre-shared Key)
   * WPA2 Enterprise
     * Requires a central authentication server
