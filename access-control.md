@@ -5,6 +5,7 @@
   * Uses security labels to classify data
 * Discretionary Access Control (DAC)
   * Leaves control of security to the data owner
+  * Very flexible, but weak
   * For example, Linda creates a folder and puts files in the folder, and chooses people who will be shared with the folder contents
 * Role-based Access Control (RBAC)
   * Places users into roles that have been granted groups of permissions to perform a job function
