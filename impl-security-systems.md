@@ -22,6 +22,15 @@
 ### HSM (Hardware Security Module)
 * Handle cryptographic duties to reduce a server's workload
 
+### IDS (Intrusion Detection System)
+* components
+  * Sensor
+    * Collects the data from the network segement
+  * Manager
+    * An intergace that the human uses to interact with the system
+  * Analyzer
+    * Analyzes the data
+
 ### HIDS (Host-based IDS)
 * Application-centric IDS
 * Monitor an abnormal activities of a host or an application
