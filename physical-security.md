@@ -35,3 +35,5 @@
 * Drop celing needs to be removed in a data center room; it can expose potential entry to the room
 * Closed-circuit sensor
   * An alram is triggerd if a window is open
+* FM-200
+  * A fire extinguishing system that is commonly used in data centers and server room to protect the servers from fire
