@@ -78,3 +78,6 @@
 
 ### Shimming
 * An attacker places malware between an application and other files which intercepts the communication of the file
+
+### APT (Advanced Persistent Threat)
+* Takes a while to complete
