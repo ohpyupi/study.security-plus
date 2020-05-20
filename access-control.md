@@ -19,6 +19,10 @@
 * Time-of-data Access Control
 * Group-based Access Control
   * Users are placed in groups and permissions are applied to groups
+  
+### Roles
+* System Owners
+  * Receives role-based trainings on how to manage particular systems
 
 ### Trusted OS
 * A trusted OS uses a secured OS kernel that supports mandatory access control (MAC), which applies security centrally to adhere with security policies
