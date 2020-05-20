@@ -11,8 +11,11 @@
   * Places users into roles that have been granted groups of permissions to perform a job function
 * Rule-based Access Control
   * For example, rules defined in network routers
+  * For example, Lab network access is only available between 9AM to 5PM
 * Attribute-based Access Control
   * An access control using conditions based on attributes such as department, project, and security clearance level
+  * Aware of context
+  * A "next generation" authorization model
 * Time-of-data Access Control
 * Group-based Access Control
   * Users are placed in groups and permissions are applied to groups
