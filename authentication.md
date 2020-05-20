@@ -37,6 +37,7 @@ A central database that can securely authenticate users or computers
 * Shibboleth
   * Uses SAML
   * Popular in UNIX and Linux environments
+  * Not appropriate for mobile
   
 ### Kerberos
 * A key distribution center and provides keys with certain time limits
