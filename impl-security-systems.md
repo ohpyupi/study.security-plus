@@ -108,4 +108,5 @@
 * Degaussing
   * Removes magnetic field generated from a device
 * FDE (Full Disk Encryption)
+  * The best way to protect data on any device (often the most important security feature)
 * SED (Self-encrypted Drives)
