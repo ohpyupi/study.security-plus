@@ -37,6 +37,12 @@ Monitors and blocks HTTP traffic based on configured policy
 ### Proxy Server
 * Retrieves content for clients
 * Authenticate clients (login page for free WiFi network)
+* Forward Proxy
+  * what most people typicall call 'a proxy'
+  * You send a connection request to it, and the forward proxy retrieves data from the internet
+* Reverse Proxy
+  * Controls access to a server on private networks
+  * Can perform authentication tasks, as well as cache or decrypt data
 
 ### DHCP (Dynamic Host Configuration Protocol)
 * Provides IP/subnet mask/default gateway/DNS to clients
