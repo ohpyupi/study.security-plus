@@ -57,6 +57,10 @@
 ### Wireless Modes
 * Isolation mode
   * Prevents wireless clients on the same WLAN from seeing one another
+  
+### ANT (Adaptive Network Topology)
+* A proprietary technology that works with low-power mode devices
+* Primarily used for sports and fitness sensors
 
 ### War driving
 Searches for wireless networks, often from within a moving vehicle
