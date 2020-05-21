@@ -81,3 +81,6 @@
 
 ### APT (Advanced Persistent Threat)
 * Takes a while to complete
+
+### Pharming
+* A fradulent practice of directing Internet users to a bogus website that mimics the appearance of a legitimate one in order to obtain personal information such as user passwords, account numbers, and other confidential data
