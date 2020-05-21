@@ -65,6 +65,8 @@ Searches for wireless networks, often from within a moving vehicle
 Connects device network authentication framework supporting methods such as PIK certificates, smartcards, and passwords
 * Variants
   * EAP-FAST
+    * Exists where password policy cannot be enforced
+    * Consists of 3 phases which are provisioning, establishment of a tunnel, and authentication
   * EAP-TLS
     * EAP with TLS standard
   * EAP-TTLS
