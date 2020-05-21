@@ -87,3 +87,6 @@
 
 ### Multipartite
 * Viruses that combine infections with boot sector viruses
+
+### Sparse Injector Virus
+* Performs activity sporadically
