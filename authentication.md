@@ -47,6 +47,9 @@ A central database that can securely authenticate users or computers
 ### Biometric Authentication
 * CER (Crossover Error Rate)
  * The point where false rejections and false acceptance are equal
+ 
+### Voice Recognition
+* Systems require training
 
 ### Authentication devices
 * Key fob
