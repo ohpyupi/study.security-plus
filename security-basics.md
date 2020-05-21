@@ -26,8 +26,9 @@
   * Provides a set of credentials for various systems
   
 ### Security Principles
-* Least Principle
+* Least Privilege Principle
   * Design in a way that users have only the permissions they need to do their jobs
+  * Opposite to Excessive Privileges
 * Separation of Duties
   
 ### RAID (Redundant Array of Independent Disks)
