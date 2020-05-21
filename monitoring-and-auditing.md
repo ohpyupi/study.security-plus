@@ -23,6 +23,7 @@
 ### SIEM (Security Information and Event Management)
 * Provides a centralized way to monitor and manage security incidents
 * Combines, or aggregate, like events to reduce duplicate event notifications and provide reports that correlate data
+* During the response, the event de-duplication needs to be done first
 
 ### Misc.
 * Log files should be part of the backup
