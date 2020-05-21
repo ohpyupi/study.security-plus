@@ -40,8 +40,9 @@ A central database that can securely authenticate users or computers
   * Not appropriate for mobile
   
 ### Kerberos
-* A key distribution center and provides keys with certain time limits
+* A KDC (Key Distribution Center) and provides keys with certain time limits
 * Can be affected by NTP (Network Time Protocol)
+* KDC composes of Authentication Server and Ticket-granting Server
 
 ### Biometric Authentication
 * CER (Crossover Error Rate)
