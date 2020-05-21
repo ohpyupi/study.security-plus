@@ -90,3 +90,7 @@
 
 ### Sparse Infector Virus
 * Performs activity sporadically
+
+### Rainbow tables
+* A precomputed table for reversing cryptographic hash functions, usually for cracking password hashes
+* Can be mitigated by password length
