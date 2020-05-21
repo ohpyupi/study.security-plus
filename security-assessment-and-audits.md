@@ -62,6 +62,8 @@
   * More secure than WEP and WPA PSK
 * RADIUS (Remote Authentication Dial-In User Service)
   * A central server that authenticates users connecting to a network
+  * A cross-platform remote access protocol
+  * Uses symmetric encryption
   
 ### Ports
 * Windows File and Print Sharing
