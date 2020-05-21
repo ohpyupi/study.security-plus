@@ -5,7 +5,7 @@
   1. Analysis of the severity of an event
   2. Determines which other personnel must be called in
 * Once the severity of the issue has been determined, the quickest way to control the spread of worm virus is to eliminate network connectivity
-* Once a malware incident is identified, the containment should be done first to isolate the machine with the malware so that it does not spread across the network
+* Once a malware incident is identified, the containment should be done first to isolate the machine with the malware so that it does not spread across the network (Identification -> Containment)
 
 ### Forensic Analysis
 * Rules
