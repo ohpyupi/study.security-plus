@@ -69,6 +69,7 @@ Connects device network authentication framework supporting methods such as PIK 
     * Consists of 3 phases which are provisioning, establishment of a tunnel, and authentication
   * EAP-TLS
     * EAP with TLS standard
+    * Requires both client and server certificates
   * EAP-TTLS
   * PEAP (Protected EAP)
     * Encapsulates the EAP connection in an encrypted and authenticated tunnel
