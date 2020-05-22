@@ -17,8 +17,9 @@ Converts data from a format a network can accept to a format that another networ
 ### Packer-filtering Firewall
 * Filters traffic bIP/Port/Protocol on a packet header
 
-### Stateful Packet Filtering Firewall
+### (SPI) Stateful Packet Filtering Firewall
 * Examines each packet for the context in them
+* Able to detect SYN flood and other web attacks
 
 ### Command-line Tools
 * iptables
