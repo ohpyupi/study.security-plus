@@ -94,3 +94,6 @@
 ### Rainbow tables
 * A precomputed table for reversing cryptographic hash functions, usually for cracking password hashes
 * Can be mitigated by password length
+
+### DLL Injection
+* A malware that attempts to inject coe into the process library
