@@ -47,6 +47,7 @@
 * BYOD (Bring your own devices)
   * Needs a separate network for BYOD devices
 * CYOD (Choose your own devices)
+  * Employees can choose and purchase a device from approved choices
 * COPE(Corporate-owned, Personally-enabled)
   * The most secure solution
   * Security features enabled
