@@ -84,6 +84,7 @@
 
 ### SNMP (Simple Network Management Protocol)
 * TCP port 161
+* In ealier versions, traffic was sent all in clear text, but from v3, all data sent is encrypted
 
 ### LDAP
 * TCP port 389
