@@ -51,6 +51,7 @@ Monitors and blocks HTTP traffic based on configured policy
 ### DHCP (Dynamic Host Configuration Protocol)
 * Provides IP/subnet mask/default gateway/DNS to clients
 * Does not provide authentication
+* To get new dynamic IP address, ipconfig /renew
 
 ### Protocol Analyzer
 Captures and view network traffic
