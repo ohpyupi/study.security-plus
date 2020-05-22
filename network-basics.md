@@ -86,9 +86,12 @@
 * TCP port 161
 * In ealier versions, traffic was sent all in clear text, but from v3, all data sent is encrypted
 
-### LDAP
+### LDAP (Lightweight Directory Access Protocol)
 * TCP port 389
-* Secured LDAP -> TCP port 636
+
+### LDAPS (LDAP Secure)
+* TCP port 636
+* Uses TLS alongside LDAP to mitigate the risk of an attacker gathering network resources information
 
 ### DHCP (Dynamic Host Configuration Protocol)
 * To obtain a valid TCP/IP configuration, `ifconfig /renew`
