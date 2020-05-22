@@ -53,6 +53,8 @@
 * Thin WAP
   * All the functions controlled in a central device, like a wireless switch or wireless LAN controller
   * All the settings can be configured automatically by central device in a remote location
+* Controller-based WAP
+  * Has minimal functionality as most are centrally-controlled
 
 ### Wireless Modes
 * Isolation mode
