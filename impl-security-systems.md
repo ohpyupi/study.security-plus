@@ -60,6 +60,10 @@
   * Encrypts entire packets (the entire contents)
 * Transport mode
   * Encrypts only data, not the header
+* AH (Authentication header)
+  * Only provides integrity
+* ESP (Encaptulating security payload)
+  * Provides integrity and encryption
 
 ### Data Communication
 * NFS
