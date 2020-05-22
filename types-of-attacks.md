@@ -98,5 +98,5 @@
 ### DLL Injection
 * A malware that attempts to inject coe into the process library
 
-### SPIM
+### Spim
 * A type of spam targeting users of IM (instant messaging) services, SMS, or private message within websites and social media
