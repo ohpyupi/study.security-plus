@@ -30,6 +30,15 @@
     * An intergace that the human uses to interact with the system
   * Analyzer
     * Analyzes the data
+* Operation modes
+  * Passive
+    * Examin a copy of the traffic
+    * No way to block the traffic
+  * Out-of-band
+    * The IDS is not part of the traffic flow
+    * Can send TCP reset frame to the source and the destination to close the session between two
+  * In-band
+    * All traffic passes through the IDS
 
 ### HIDS (Host-based IDS)
 * Application-centric IDS
