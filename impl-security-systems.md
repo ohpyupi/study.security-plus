@@ -39,6 +39,11 @@
     * Can send TCP reset frame to the source and the destination to close the session between two
   * In-band
     * All traffic passes through the IDS
+* Detection of attacks
+  * Signature-based
+  * Anomaly-based
+  * Behavioral
+  * Heuristic
 
 ### HIDS (Host-based IDS)
 * Application-centric IDS
