@@ -32,6 +32,10 @@
   * Gaining advantage over competitors
   * Passive reconnaisance in penetration testing
   * Preparation before launching a cyberattack
+  
+### Penetration Testing
+* Pivoting
+  * The practive of using one compromised system as a platform for further attacks on other systems on the same network
 
 ### Types of Testing
 * White-box Testing
