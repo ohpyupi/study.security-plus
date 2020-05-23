@@ -6,9 +6,15 @@
   * Add static ARP entries
   * Implement physical security to avoid malicious users from gaining access to the network and poisoning everyone's ARP cache.
 
-### Buffer Overflows
+### Buffer Overflow
 * Preventions:
   * Patches periodically
+
+### Integer Overflow
+* A programming error where an application tries to store a numeric value in a variable that is too small to hold it
+
+### Point Dereference
+* Describes an attempt to read a variable that stores a null value
   
 ### Domain Kiting
 * Register and delete a domain name repeatedly to avoid paying for the domain name
@@ -99,7 +105,8 @@
 * Can be mitigated by password length
 
 ### DLL Injection
-* A malware that attempts to inject coe into the process library
+* A malware that attempts to inject code into the process library
+* A type of attack that relies on executing a library of code
 
 ### Spim
 * A type of spam targeting users of IM (instant messaging) services, SMS, or private message within websites and social media
