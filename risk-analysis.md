@@ -14,7 +14,7 @@ Categorizes risks (or threats) with general (not hard numerical) terms and numer
 
 ### Qualitative Risk Analysis
 Assesses the likelihood of risks that will impede normal business operations and priotizes risks relative to one another
-* Asset valudation
+* Asset validation
 * Ranking of potential threats
 * Risk should be ranked by likelihood (same for the quantitative risk analysis)
 
@@ -29,6 +29,12 @@ Assesses the likelihood of risks that will impede normal business operations and
 ### Risk-related items
 * Insurance coverage
 * Number of server hard disks
+
+### Asset Management
+* Provides countermeasures against:
+  * System sprawl
+  * Undocumented assets
+  * Architecture and design weakness
 
 ### Terms
 * Risk Management
