@@ -55,6 +55,9 @@
 ### Switch (Layer 2)
 * All traffic copied to the port 24 - normally used to for monitoring
 * Typically includes a flood guard to protect against MAC flood attacks
+* Switching loop or bridge loop
+  * Occurs when there is more than one Layer 2 path between two endpoints
+  * Can be protected via STP (Spanning Tree Protocols) and RSTP (Rapid STP)  protocols
 
 ### VLAN (Virtual Local Lan)
 * Improves network throughput
