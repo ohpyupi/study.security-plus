@@ -100,3 +100,7 @@
 
 ### Spim
 * A type of spam targeting users of IM (instant messaging) services, SMS, or private message within websites and social media
+
+### Misc
+* Two popular methods of driver manipulation are: shimming and refactoring
+  * In malware, these are often doen to look for opportunities to take advantage of weak code and look for holes that can be exploited
