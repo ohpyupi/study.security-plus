@@ -31,6 +31,10 @@
 * Developed by WiFi Alliance and implemented the requirement of IEEE 802.11i
 * WPA2 PSK (Pre-shared Key)
   * WPA and WPA2 PSK are for home use, and uses passphrase
+* WPA2 CCMP (Counter Mode CBC-MAC Protocol)
+  * Must be used by default in WAP2-CCMP (not necessarily in WPA-CCMP)
+  * the least susceptible to wireless replay attacks
+  * Replaces TKIP option
 * WPA2 Personal
   * Simply uses passphrase
 * WPA2 Enterprise
