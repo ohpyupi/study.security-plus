@@ -111,3 +111,4 @@
 ### Misc
 * Two popular methods of driver manipulation are: shimming and refactoring
   * In malware, these are often doen to look for opportunities to take advantage of weak code and look for holes that can be exploited
+* IPSec, Kerberos, and CHAP offer countermeasures against replay attacks
