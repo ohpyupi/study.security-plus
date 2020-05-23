@@ -112,3 +112,8 @@ Prevents connections from unauthorized wireless clients
   
 ### RFID (Radio-frequency Identification)
 * Uses electromagnetic fields to automatically identify and track tags attached to objects
+* Examples
+  * Implanting RFID microchips in livestock and pets enables psotivie identification of animals
+* Privacy concerns
+  * RFID tags can be attached to cash, clothing, and possesions.
+  * The possibility of reading personally-linked information without consent has raised serious pricacy concerns
