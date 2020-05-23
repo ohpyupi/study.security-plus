@@ -101,6 +101,10 @@
 ### Spim
 * A type of spam targeting users of IM (instant messaging) services, SMS, or private message within websites and social media
 
+### KPA (Known-plaintext Attack)
+* An attack model for cryptanalysis where the attacker has access to both the plaintext, and its encrypted version
+* These can be used to reveal further secret information such as secert keys and code books
+
 ### Misc
 * Two popular methods of driver manipulation are: shimming and refactoring
   * In malware, these are often doen to look for opportunities to take advantage of weak code and look for holes that can be exploited
