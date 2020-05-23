@@ -47,6 +47,9 @@
 
 ### Downgrade Attack
 * Forces a connection to abandon a high-quality encryption method of a lower quality, more easily broken method.
+* Examples
+  * POODLE (Padding Oracle On Downgraded Legacy Encryption)
+    * A MITM exploit which takes advantage of Internet and security software clients' fallback to SSL 3.0
 
 ### Logic Bombs
 * Triggers when certain conditions are met such as date
