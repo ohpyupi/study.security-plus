@@ -25,6 +25,13 @@
   * A threat actor type whose sole intent behind breaking into a computer system or network is monetary gain
 * Competitor
   * Engages in illegal activities to get the know-how and gain market advantage
+ 
+### OSINT (Open-source Intelligence)
+* Data collected from publicly available sources to be used in an intelligence context
+* Purposes
+  * Gaining advantage over competitors
+  * Passive reconnaisance in penetration testing
+  * Preparation before launching a cyberattack
 
 ### Types of Testing
 * White-box Testing
