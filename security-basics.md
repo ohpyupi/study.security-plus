@@ -14,9 +14,17 @@
   * Discover security flaws and often make these known publicly but never for personal gain
 * Script Kiddies
   * Download and run exploits created by others without having a full understanding of the exploits
+  * Low level of technical sophistication
+  * Lack of extensive resource/funding
 * Penetration Testers
-* Scriptivist
+* Hacktivist
   * Use hacking to promote a political or ideological agenda
+
+### Types of Threat Actor
+* Organized crime
+  * A threat actor type whose sole intent behind breaking into a computer system or network is monetary gain
+* Competitor
+  * Engages in illegal activities to get the know-how and gain market advantage
 
 ### Types of Testing
 * White-box Testing
