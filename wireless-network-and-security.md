@@ -109,3 +109,6 @@ Prevents connections from unauthorized wireless clients
   * Switches
   * Wireless routers
   * VPN concentrators
+  
+### RFID (Radio-frequency Identification)
+* Uses electromagnetic fields to automatically identify and track tags attached to objects
