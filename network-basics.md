@@ -54,6 +54,7 @@
 
 ### Switch (Layer 2)
 * All traffic copied to the port 24 - normally used to for monitoring
+* Typically includes a flood guard to protect against MAC flood attacks
 
 ### VLAN (Virtual Local Lan)
 * Improves network throughput
