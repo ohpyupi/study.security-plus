@@ -64,6 +64,17 @@
   * Has minimal functionality as most are centrally-controlled
 * WAP power level controls
   * Helps troubleshooting signal loss and low wireless network signal coverage
+* Antenna Types
+  * Dipole Antenna
+    * A comment antenna type used as a standard equipment on most AP for indoor WLAN deployments
+    * Provides a 360-degree horizontal signal coverage
+  * Omnidirectional Antenna
+    * Provides a 360-degree horizontal signal coverage
+  * Unidirectional Antenna
+    * Highly directional antenna type for long-range point-to-point bridging links
+  * Dish Antenna
+    * Highly directional antenna type for long-range point-to-point bridging links
+ * An optimal WAP antenna placement provides a countermeasure against war driving attack
   
 ### WLAN
 * Disabling SSID broadcast will make a WLAN harder to discover
