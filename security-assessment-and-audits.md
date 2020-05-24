@@ -5,7 +5,8 @@
   * See what type of network traffic is being transmitted on the network
   * Can be referred to as packer sniffer though it can have other meanings
   * Tools
-    * tcpdump
+    * tcpdump (CLI)
+    * Wireshark (GUI)
 * Vulnerability Scanner
   * Scan computers for known security violations and weakness
   * Determine which machines are secure and which are not
