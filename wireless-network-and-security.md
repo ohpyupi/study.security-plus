@@ -95,7 +95,8 @@ Connects device network authentication framework supporting methods such as PIK 
   * Access unauthorized devices over Bluetooth communication
   
 ### MAC Address Filtering
-Prevents connections from unauthorized wireless clients
+* Prevents connections from unauthorized wireless clients
+* A security access control method whereby the MAC address assigned to each network card is used to determine access to the network
 
 ### Security Policy Terms
 * MIMO (Multiple input, multiple output)
