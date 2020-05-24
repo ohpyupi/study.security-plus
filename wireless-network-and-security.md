@@ -4,6 +4,9 @@
   * 54 Mbps
 * 802.11b
   * 11 Mbps
+  
+### IEEE 802.11 Networks
+* Includes 2.4 Ghz and 5.0 Ghz
 
 ### Wired Ethernet Standard
 * 802.3
