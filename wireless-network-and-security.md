@@ -59,6 +59,8 @@
   * All the settings can be configured automatically by central device in a remote location
 * Controller-based WAP
   * Has minimal functionality as most are centrally-controlled
+* WAP power level controls
+  * Helps troubleshooting signal loss and low wireless network signal coverage
   
 ### WLAN
 * Disabling SSID broadcast will make a WLAN harder to discover
