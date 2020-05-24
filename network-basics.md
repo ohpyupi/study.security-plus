@@ -43,11 +43,17 @@
 ### Load Balancer
 * Algorithms
   * Round Robin - Distribute requests in a circular manner.
-  * Weighted Round Robin - Distribute requests in a way that a server with higher weight receives more requests.
+  * Weighted Round Robin
+    * Distributes requests in a way that a server with higher weight receives more requests.
+    * Each consecutive is handled in a rotational fasion, but servers with higher specs are designated to process more workload
   * Random - Distribute requests randomly
   * Least Connection - Distrubte requests to the least busiest server.
+  * Session affinity - Pass requests consistently from a given client to the same server
 * Active-active - Both load balancers are active
 * Active-passive - Only one load balancer is active while another is on standby mode.
+
+### Virtual IP Address
+* An IP address that does not correspond to any actual physical network interface
 
 ### NIC (Network Interface Card)
 * Allow a system communicate on a network
