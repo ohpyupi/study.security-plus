@@ -7,12 +7,19 @@ Converts data from a format a network can accept to a format that another networ
 * Ensures connecting devices are compliant with configured requirements before allowing network access
 * Ensures fire wall and antivirus in place
 * Agents
-  * Permanent NAC agent
+  * Permanent (persistent) NAC agent
     * Would have impact on visitor devices
+    * Permanently installed onto a system
+    * Periodic updates may be required
   * Agentless NAC agent
     * Less impact
+    * Integrated with Active Directory
+    * Checks are made during login and logoff
+    * Can't be scheduled
   * Dissolvable NAC agent
     * Minimal impact
+    * No installation required
+    * Health check is done when the user authenticates initially
 
 ### Packer-filtering Firewall
 * Filters traffic bIP/Port/Protocol on a packet header
