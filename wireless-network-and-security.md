@@ -75,6 +75,9 @@
   * Dish Antenna
     * Highly directional antenna type for long-range point-to-point bridging links
  * An optimal WAP antenna placement provides a countermeasure against war driving attack
+ 
+### Wireless Bridge
+* A type of device that is used for interconnecting two or more physically separated network segments
   
 ### WLAN
 * Disabling SSID broadcast will make a WLAN harder to discover
