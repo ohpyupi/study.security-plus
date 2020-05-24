@@ -9,6 +9,7 @@
 * Vulnerability Scanner
   * Scan computers for known security violations and weakness
   * Determine which machines are secure and which are not
+  * Offers the functionality of a configuration compliance scanner
   * Tools
     * nessus
 * Port Scanner
