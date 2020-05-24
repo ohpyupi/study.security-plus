@@ -12,6 +12,13 @@
   * Offers the functionality of a configuration compliance scanner
   * Tools
     * nessus
+    * OpenVAS (Open Vulnerability Assessment Scanner)
+* Pasword Cracking Tools
+  * Tools
+    * John the Ripper
+    * Cain & Abel
+* Wireless Scanner
+  * Performs a site survey
 * Port Scanner
   * Identifies open ports on hosts
   * Tools
