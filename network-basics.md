@@ -108,3 +108,7 @@
 
 ### SDN (Software-degined Network)
 * Provides scalability
+
+### ICMP (Internet Control Message Protocol)
+* Used by network devices to dianose network communication issues
+* Used to determine if or not data is reaching its inended destination in a timely manner
