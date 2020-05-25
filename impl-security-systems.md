@@ -57,18 +57,30 @@
 2. Content inspection
 3. Malware inspection
 
-### Mobile Device Deployment
-* Policies
-  * BYOD (Bring your own devices)
-    * Needs a separate network for BYOD devices
-  * CYOD (Choose your own devices)
-    * Employees can choose and purchase a device from approved choices
-  * COPE(Corporate-owned, Personally-enabled)
-    * The most secure solution
-    * Security features enabled
-    * Cellular data, remote wipe, location tracking, MDM
-  * VDI (Virtual Desktop Infrastructure)
-    * A mobile device can act as a terminal for accessing data and applications hosted on a remote server
+### Mobile Security Solution
+* Terms.
+  * Screen lock
+    * A user interface element controlling access to a mobile device after the device is switched on
+  * Sideloading
+    * Allows to install an application without using an official app store
+  * Jailbreaking
+    * Refers to removing software restrictions imposed by Apple on its iOS OS
+  * Containerization
+    * The isolation of corporate applications and data from other parts of the mobile device
+  * Storage segmentation
+    * Enables separate controls over the user and enterprise data
+* Mobile Device Deployment
+  * Policies
+    * BYOD (Bring your own devices)
+      * Needs a separate network for BYOD devices
+    * CYOD (Choose your own devices)
+      * Employees can choose and purchase a device from approved choices
+    * COPE(Corporate-owned, Personally-enabled)
+      * The most secure solution
+      * Security features enabled
+      * Cellular data, remote wipe, location tracking, MDM
+    * VDI (Virtual Desktop Infrastructure)
+      * A mobile device can act as a terminal for accessing data and applications hosted on a remote server
   
 ### Data Policy
 * Wiping, Disposing, Retention, Policy, and Storage
@@ -122,10 +134,6 @@
   * applications
 
 ### Terminologies
-* Sideloading
-  * Allows to install an application without using an official app store
-* Jailbreaking
-  * Refers to removing software restrictions imposed by Apple on its iOS OS
 * MFD (Multi-functional Devices)
   * For example, a device capable of priting, scanning, and faxing
 * EMI (Electromagnetic Interference)
