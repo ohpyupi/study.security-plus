@@ -47,6 +47,7 @@
   * Can degrade network performance (very risky)
   * Banner grab
     * Used to probe the listening port of a network service with the intent of learning more, such as what version of software is running
+    * The practice of connecting to an open port on a remote host to gather more information about its configuration
     * `telnet smtp1.acme.com 25`
 * Honeypot
   * Used to log zero-day activity
