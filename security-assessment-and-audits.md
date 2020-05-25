@@ -59,7 +59,10 @@
 * netcat
   * Can be used for both port scanning and banner grabbing
 * nmap
- * Used to discover hosts and services on a computer network by sending packets and analyzing the responses
+  * Used to discover hosts and services on a computer network by sending packets and analyzing the responses
+* SFC (System File Checker)
+  * A utility in Microsoft Windows that allows users to scan for and restore corruptions in Windows system files
+  * Checks the file integrity and restores corrupted system files
   
 ### Security Audits
 * Vulnerability Assessment
