@@ -143,3 +143,6 @@ Connects device network authentication framework supporting methods such as PIK 
 
 ### Wi-Fi Direct
 * Enables establishing direct communication links between two wireless devices without an itermediary WAP
+
+### OTA (Over-the-air)
+* Mobile device updates delivered over a wireless connection
