@@ -44,6 +44,9 @@
   * Windows built-in CLI tool that tracks and displays the route taken by an IP packet on its way to another host
 * traceroute
   * A Linux CLI tool which is a counterpart of the tracert
+* nslookup
+  * Used to troubleshoot DNS-related problems
+* arp 
   
 ### Security Audits
 * Vulnerability Assessment
