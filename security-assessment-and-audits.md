@@ -6,6 +6,7 @@
   * Can be referred to as packer sniffer though it can have other meanings
   * Tools
     * tcpdump (CLI)
+      * packet capturing utility
     * Wireshark (GUI)
 * Vulnerability Scanner
   * Scan computers for known security violations and weakness
@@ -24,6 +25,7 @@
   * Identifies open ports on hosts
   * Tools
     * nmap
+    * netcat
 * Network mapper
   * Maps out a network's layout and identify operating systems running on hosts
 * Exploit Framework
@@ -48,9 +50,12 @@
   * Used to troubleshoot DNS-related problems
 * arp 
 * ipconfig
+  * Windows built-in CLI tool
   * parameters
     * /all: displays the full TCP/IP configuration information for all adapters
     * /renew: resets the DHCP configuration settings for all adapters
+* ifconfig
+  * A counterpart of ifconfig in Linux distributions
   
 ### Security Audits
 * Vulnerability Assessment
