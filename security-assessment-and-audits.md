@@ -47,6 +47,10 @@
 * nslookup
   * Used to troubleshoot DNS-related problems
 * arp 
+* ipconfig
+  * parameters
+    * /all: displays the full TCP/IP configuration information for all adapters
+    * /renew: resets the DHCP configuration settings for all adapters
   
 ### Security Audits
 * Vulnerability Assessment
