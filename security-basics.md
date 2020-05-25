@@ -69,3 +69,7 @@
   * Commonly shipped with default configuration including the username and password
 * Examples
   * Watches, lightbulbs, UAVs, drones, internet cameras
+
+### Misc.
+* Banner
+  * Describes a text message containing system information details after connecting to a service on a server
