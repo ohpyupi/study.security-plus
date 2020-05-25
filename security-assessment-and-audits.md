@@ -58,6 +58,8 @@
   * A counterpart of ifconfig in Linux distributions
 * netcat
   * Can be used for both port scanning and banner grabbing
+* nmap
+ * Used to discover hosts and services on a computer network by sending packets and analyzing the responses
   
 ### Security Audits
 * Vulnerability Assessment
