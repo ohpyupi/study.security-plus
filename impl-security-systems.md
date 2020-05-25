@@ -57,15 +57,18 @@
 2. Content inspection
 3. Malware inspection
 
-### BYOD, COPE, CYOD
-* BYOD (Bring your own devices)
-  * Needs a separate network for BYOD devices
-* CYOD (Choose your own devices)
-  * Employees can choose and purchase a device from approved choices
-* COPE(Corporate-owned, Personally-enabled)
-  * The most secure solution
-  * Security features enabled
+### Mobile Device Deployment
+* Policies
+  * BYOD (Bring your own devices)
+    * Needs a separate network for BYOD devices
+  * CYOD (Choose your own devices)
+    * Employees can choose and purchase a device from approved choices
+  * COPE(Corporate-owned, Personally-enabled)
+    * The most secure solution
+    * Security features enabled
     * Cellular data, remote wipe, location tracking, MDM
+  * VDI (Virtual Desktop Infrastructure)
+    * A mobile device can act as a terminal for accessing data and applications hosted on a remote server
   
 ### Data Policy
 * Wiping, Disposing, Retention, Policy, and Storage
