@@ -42,6 +42,8 @@
 * tracert
   * Trace + Route
   * Windows built-in CLI tool that tracks and displays the route taken by an IP packet on its way to another host
+* traceroute
+  * A Linux CLI tool which is a counterpart of the tracert
   
 ### Security Audits
 * Vulnerability Assessment
