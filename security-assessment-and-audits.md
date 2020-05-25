@@ -39,6 +39,9 @@
 * Metasploit
   * Metasploitable
     * A Linux distribution commonly used as a target system for pracitcing penetation testing techniques
+* tracert
+  * Trace + Route
+  * Windows built-in CLI tool that tracks and displays the route taken by an IP packet on its way to another host
   
 ### Security Audits
 * Vulnerability Assessment
