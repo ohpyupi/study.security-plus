@@ -32,6 +32,14 @@
   * Metasploit
     * Metasploitable
       * A Linux distribution commonly used as a target system for pracitcing penetation testing techniques
+
+### Tools
+* netstat
+  * Windows built-in CLI tool that displays network connections for TCP, routing tables, and a number of network interface and network protocol statistics
+  * network + statistics
+  * parameters
+    * -a: displays all connections and listening ports
+    * -n: displays addresses and port numbers in numerical form
   
 ### Security Audits
 * Vulnerability Assessment
