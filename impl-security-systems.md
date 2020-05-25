@@ -124,6 +124,8 @@
 ### Terminologies
 * Sideloading
   * Allows to install an application without using an official app store
+* Jailbreaking
+  * Refers to removing software restrictions imposed by Apple on its iOS OS
 * MFD (Multi-functional Devices)
   * For example, a device capable of priting, scanning, and faxing
 * EMI (Electromagnetic Interference)
