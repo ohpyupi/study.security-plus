@@ -28,10 +28,6 @@
   * Maps out a network's layout and identify operating systems running on hosts
 * Exploit Framework
   * A tool to find vulnerabilities and attempting to exploit them
-* Exploitation Framework
-  * Metasploit
-    * Metasploitable
-      * A Linux distribution commonly used as a target system for pracitcing penetation testing techniques
 
 ### Tools
 * netstat
@@ -40,6 +36,9 @@
   * parameters
     * -a: displays all connections and listening ports
     * -n: displays addresses and port numbers in numerical form
+* Metasploit
+  * Metasploitable
+    * A Linux distribution commonly used as a target system for pracitcing penetation testing techniques
   
 ### Security Audits
 * Vulnerability Assessment
