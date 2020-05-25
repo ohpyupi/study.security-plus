@@ -140,3 +140,6 @@ Connects device network authentication framework supporting methods such as PIK 
 * Privacy concerns
   * RFID tags can be attached to cash, clothing, and possesions.
   * The possibility of reading personally-linked information without consent has raised serious pricacy concerns
+
+### Wi-Fi Direct
+* Enables establishing direct communication links between two wireless devices without an itermediary WAP
