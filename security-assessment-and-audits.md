@@ -56,6 +56,8 @@
     * /renew: resets the DHCP configuration settings for all adapters
 * ifconfig
   * A counterpart of ifconfig in Linux distributions
+* netcat
+  * Can be used for both port scanning and banner grabbing
   
 ### Security Audits
 * Vulnerability Assessment
