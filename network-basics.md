@@ -125,5 +125,7 @@
     * Designed to oversee the financial reporting landscape for finance professionals
   * HIPAA
 * Non-regulatory frameowkrs
-  * ITIL
-  * COBIT
+  * ITIL (IT Infrastructure Library)
+    * Describes a framework of best practices for delivering IT services
+  * COBIT (Control Objectives for Information and Related Technology)
+    * Designed to be a supportive tool for managers and allows brining the crucial gap between technical issues, business risks, and control requirements
