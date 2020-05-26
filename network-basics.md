@@ -69,6 +69,8 @@
 * Improves network throughput
 
 ### Network Protocols
+* SSH/SCP
+  * TCP port 22
 * RDP (Remote Desktop Protocol)
   * TCP port 3389
 * NTP (Network Time Protocol)
@@ -90,8 +92,6 @@
   * TCP port 23
   * Gives admins a remote command prompt
   * Transmits message in the clear-text
-* SCP
-  * TCP port 22
 * POP3
   * TCP port 110
   * POP3S (POP3 over SSL/TLS)
