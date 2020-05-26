@@ -118,3 +118,11 @@
 
 ### SDN (Software-degined Network)
 * Provides scalability
+
+### Network Industry-standard Frameworks
+* Regulatory frameworks
+  * SOX
+  * HIPAA
+* Non-regulatory frameowkrs
+  * ITIL
+  * COBIT
