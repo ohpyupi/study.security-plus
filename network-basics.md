@@ -119,9 +119,10 @@
 ### SDN (Software-degined Network)
 * Provides scalability
 
-### Network Industry-standard Frameworks
+### Industry-standard Frameworks
 * Regulatory frameworks
   * SOX
+    * Designed to oversee the financial reporting landscape for finance professionals
   * HIPAA
 * Non-regulatory frameowkrs
   * ITIL
