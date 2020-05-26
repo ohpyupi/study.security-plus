@@ -75,6 +75,11 @@
   * UDP port 123
 * DNS (Domain Name System)
   * Queries on UDP port 53
+  * DNSSEC
+* RTP (Real-time Trasnport Protocol)
+  * Delivers audio and video over IP networks
+  * Used in communication and entertainment systems that involve streaming media such as telephony, video teleconference
+  * SRTP
 * TFTP (Trivial FTP)
   * UDP port 59
   * Store files without authentication
