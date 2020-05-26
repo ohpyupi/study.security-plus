@@ -68,47 +68,37 @@
 ### VLAN (Virtual Local Lan)
 * Improves network throughput
 
-### RDP (Remote Desktop Protocol)
-* TCP port 3389
-
-### NTP (Network Time Protocol)
-* UDP port 123
-
-### DNS (Domain Name System)
-* Queries on UDP port 53
-
-### TFTP (Trivial FTP)
-* UDP port 59
-* Store files without authentication
-
-### Telnet
-* TCP port 23
-* Gives admins a remote command prompt
-* Transmits message in the clear-text
-
-### SCP
-* TCP port 22
-
-### POP3
-* TCP port 110
-
-### SNMP (Simple Network Management Protocol)
-* TCP port 161
-* In ealier versions, traffic was sent all in clear text, but from v3, all data sent is encrypted
-
-### LDAP (Lightweight Directory Access Protocol)
-* TCP port 389
-
-### LDAPS (LDAP Secure)
-* TCP port 636
-* Uses TLS alongside LDAP to mitigate the risk of an attacker gathering network resources information
-
-### DHCP (Dynamic Host Configuration Protocol)
-* To obtain a valid TCP/IP configuration, `ifconfig /renew`
+### Network Protocols
+* RDP (Remote Desktop Protocol)
+  * TCP port 3389
+* NTP (Network Time Protocol)
+  * UDP port 123
+* DNS (Domain Name System)
+  * Queries on UDP port 53
+* TFTP (Trivial FTP)
+  * UDP port 59
+  * Store files without authentication
+* Telnet
+  * TCP port 23
+  * Gives admins a remote command prompt
+  * Transmits message in the clear-text
+* SCP
+  * TCP port 22
+* POP3
+  * TCP port 110
+* SNMP (Simple Network Management Protocol)
+  * TCP port 161
+  * In ealier versions, traffic was sent all in clear text, but from v3, all data sent is encrypted
+* LDAP (Lightweight Directory Access Protocol)
+  * TCP port 389
+* LDAPS (LDAP Secure)
+  * TCP port 636
+  * Uses TLS alongside LDAP to mitigate the risk of an attacker gathering network resources information
+* DHCP (Dynamic Host Configuration Protocol)
+  * To obtain a valid TCP/IP configuration, `ifconfig /renew`
+* ICMP (Internet Control Message Protocol)
+  * Used by network devices to dianose network communication issues
+  * Used to determine if or not data is reaching its inended destination in a timely manner
 
 ### SDN (Software-degined Network)
 * Provides scalability
-
-### ICMP (Internet Control Message Protocol)
-* Used by network devices to dianose network communication issues
-* Used to determine if or not data is reaching its inended destination in a timely manner
