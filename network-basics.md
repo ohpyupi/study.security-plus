@@ -68,6 +68,9 @@
 ### VLAN (Virtual Local Lan)
 * Improves network throughput
 
+### SDN (Software-degined Network)
+* Provides scalability
+
 ### Network Protocols
 * SSH/SCP
   * TCP port 22
@@ -115,9 +118,6 @@
 * ICMP (Internet Control Message Protocol)
   * Used by network devices to dianose network communication issues
   * Used to determine if or not data is reaching its inended destination in a timely manner
-
-### SDN (Software-degined Network)
-* Provides scalability
 
 ### Industry-standard Frameworks
 * Regulatory frameworks
