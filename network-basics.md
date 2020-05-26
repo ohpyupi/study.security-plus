@@ -83,6 +83,9 @@
 * TFTP (Trivial FTP)
   * UDP port 59
   * Store files without authentication
+* FTP (File Transfer Protocol)
+  * TCP port 21
+  * SFTP and FTPS
 * Telnet
   * TCP port 23
   * Gives admins a remote command prompt
