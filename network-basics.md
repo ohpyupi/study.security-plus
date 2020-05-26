@@ -95,6 +95,7 @@
 * POP3
   * TCP port 110
 * SNMP (Simple Network Management Protocol)
+  * Allows devices to communicate even if the devices are different hardware and run different software
   * TCP port 161
   * In ealier versions, traffic was sent all in clear text, but from v3, all data sent is encrypted
 * LDAP (Lightweight Directory Access Protocol)
