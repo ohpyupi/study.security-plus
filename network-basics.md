@@ -94,6 +94,13 @@
   * TCP port 22
 * POP3
   * TCP port 110
+  * POP3S (POP3 over SSL/TLS)
+    * TCP port 995
+* IMAP
+  * An Internet standard protocol used by email clients to retrieve email messages from a mail server over a TCP/IP connection
+  * TCP port 143
+  * IMAPS (IMAP over SSL)
+    * TCP port 993
 * SNMP (Simple Network Management Protocol)
   * Allows devices to communicate even if the devices are different hardware and run different software
   * TCP port 161
