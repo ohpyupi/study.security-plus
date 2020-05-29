@@ -132,6 +132,9 @@
   * infrastructure for hosted applications
 * SaaS
   * applications
+  
+### Air Gap Networking
+* Ensures that a secure computer network is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network
 
 ### Terminologies
 * MFD (Multi-functional Devices)
