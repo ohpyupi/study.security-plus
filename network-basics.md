@@ -118,6 +118,13 @@
 * ICMP (Internet Control Message Protocol)
   * Used by network devices to dianose network communication issues
   * Used to determine if or not data is reaching its inended destination in a timely manner
+  
+### NAT (Network Address Translation)
+* Used to hide the internal IP addresses by modifying IP address information in IP packet headers while in trasit across a traffic routing device
+* Alleviates the problem of depleting IPv4 address space by allowing multiple hosts on the same private LAN to share a single public IP address
+
+### Router
+* A device designed to filter and transfer IP packets between dissimilar types of computer networks
 
 ### Industry-standard Frameworks
 * Regulatory frameworks
