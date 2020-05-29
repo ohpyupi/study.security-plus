@@ -129,3 +129,9 @@
     * Describes a framework of best practices for delivering IT services
   * COBIT (Control Objectives for Information and Related Technology)
     * Designed to be a supportive tool for managers and allows brining the crucial gap between technical issues, business risks, and control requirements
+
+### Terms.
+* Extranet
+  * A type of private network that allows partial access to trusted third parties
+* Intranet
+  * A type of privae network for a corporation or organization accessible only to the employees or authorized members
