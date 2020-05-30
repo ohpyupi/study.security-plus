@@ -177,3 +177,8 @@
 * SoC (System on a Chio)
   * Raspberry Pi
   * Multiple components running on a single chip
+* RTOS (Real-Time Operating System)
+  * An operating system with a determinitic processing schedule
+  * No time to wait for other processes
+  * Industrial equipment, automobile
+  * Military environments
