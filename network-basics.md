@@ -64,6 +64,8 @@
 * Switching loop or bridge loop
   * Occurs when there is more than one Layer 2 path between two endpoints
   * Can be protected via STP (Spanning Tree Protocols) and RSTP (Rapid STP)  protocols
+* Port mirroring
+  * Allows an admin to inspect traffic passing through a network switch
 
 ### VLAN (Virtual Local Lan)
 * Improves network throughput
