@@ -145,7 +145,7 @@
 ### Air Gap Networking
 * Ensures that a secure computer network is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network
 
-### Terminologies
+### Terms.
 * MFD (Multi-functional Devices)
   * For example, a device capable of priting, scanning, and faxing
 * EMI (Electromagnetic Interference)
@@ -155,3 +155,5 @@
   * The best way to protect data on any device (often the most important security feature)
 * SED (Self-encrypted Drives)
   * A data storage device equipped with a hardware-level encryption functionality
+* Secure supply chain
+  * Based on the assumption that all hardware/software should originate from reliable sources
