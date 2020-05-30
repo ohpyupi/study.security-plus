@@ -120,6 +120,9 @@
 
 ### VM Escape
 * The process of breaking out of a virtual machine and interacting with the host OS
+* Resolution
+  * Sandboxing
+  * Patch management
 
 ### Misc
 * Two popular methods of driver manipulation are: shimming and refactoring
