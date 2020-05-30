@@ -24,6 +24,10 @@
 * Handle cryptographic duties to reduce a server's workload
 * A hardware device or a plugin card used for secure management, processing and storage of cryptographic keys
 
+### UEFI (Unified Extensible Firmware Interface)
+* A firmware interface designed as a replacement for BIOS.
+* Provides a variety of improvements over BIOS, GUI, mouse support, or secure boot functionality to prevent the loading of malware and unauthoirzed operating systems during the computer startup process
+
 ### IDS (Intrusion Detection System)
 * components
   * Sensor
