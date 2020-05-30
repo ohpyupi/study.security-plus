@@ -71,6 +71,12 @@
     * Distributed control systems
     * PC manages equipment
       * Power generation, refining, manufacturing equipment
+      
+### HVAC (Heating, Ventilating, and Air Conditioning)
+* A complex science
+* PC manages equipment
+* Trandionally not built with secuirty in mind
+  * Difficult to recover from an infrastructure DoS
 
 ### All-in-one security appliance
 1. URL filter
