@@ -191,3 +191,6 @@
   * Technical security controled that can be applied
     * Wireless signal encryption
     * Password Encryption
+* Code Signing
+  * Confiems the applications' source of origin
+  * Validates the application's integrity
