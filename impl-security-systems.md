@@ -53,6 +53,9 @@
   * Anomaly-based
   * Behavioral
   * Heuristic
+  
+### ICS (Incident Command System)
+* A system providing the capability for remote control, real-time monitoring, and gathering information related to industrial equipment
 
 ### HIDS (Host-based IDS)
 * Application-centric IDS
