@@ -66,7 +66,11 @@
 * Examples
   * SCADA (Supervisory Control and Data Aquisition)
     * A centralized system that control and monitor the entire sites, or it is a complex system that spreads out over large areas
-    * One of examples of industrial control system solutions
+    * No access from the outside (Network isolation)
+    * Large-scale, multi-site ICS
+    * Distributed control systems
+    * PC manages equipment
+      * Power generation, refining, manufacturing equipment
 
 ### All-in-one security appliance
 1. URL filter
