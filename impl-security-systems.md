@@ -174,3 +174,6 @@
   * A data storage device equipped with a hardware-level encryption functionality
 * Secure supply chain
   * Based on the assumption that all hardware/software should originate from reliable sources
+* SoC (System on a Chio)
+  * Raspberry Pi
+  * Multiple components running on a single chip
