@@ -128,6 +128,7 @@
 ### Hypervisor
   * Type 1
     * Runs on a hardware level
+    * Bare metal
   * Type 2
     * Runs on an existing OS level
     
