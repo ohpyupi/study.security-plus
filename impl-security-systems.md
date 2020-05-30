@@ -145,3 +145,4 @@
 * FDE (Full Disk Encryption)
   * The best way to protect data on any device (often the most important security feature)
 * SED (Self-encrypted Drives)
+  * A data storage device equipped with a hardware-level encryption functionality
