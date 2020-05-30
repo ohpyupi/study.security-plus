@@ -165,6 +165,7 @@
 ### Terms.
 * MFD (Multi-functional Devices)
   * For example, a device capable of priting, scanning, and faxing
+  * A document stored in the memory of this can pose a risk of an unauthorized data access
 * EMI (Electromagnetic Interference)
 * Degaussing
   * Removes magnetic field generated from a device
