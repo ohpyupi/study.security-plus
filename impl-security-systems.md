@@ -159,6 +159,8 @@
   * infrastructure for hosted applications
 * SaaS
   * applications
+* IAC (Infrastructure as Code)
+  * Replaces manual configuration of hardware with automatic deployment through code
   
 ### Air Gap Networking
 * Ensures that a secure computer network is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network
