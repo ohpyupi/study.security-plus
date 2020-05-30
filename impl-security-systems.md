@@ -184,3 +184,7 @@
   * Industrial equipment, automobile
   * Military environments
   * Exteremely sensitive to security issues
+* UAV (Unmannged Aerial Vehicle)
+  * Technical security controled that can be applied
+    * Wireless signal encryption
+    * Password Encryption
