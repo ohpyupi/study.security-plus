@@ -19,6 +19,9 @@
 * Needs to back up the keys after its setup
 * Provides encryption for the drive content
 * An embedded cryptoprocessor that can be found on the motherboard of newer PCs and laptops
+* Capabilities
+  * Remote Attestation
+    * To check a computer system's integrity against a remote trusted third-party service
 
 ### HSM (Hardware Security Module)
 * Handle cryptographic duties to reduce a server's workload
