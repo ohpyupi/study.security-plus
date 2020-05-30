@@ -144,3 +144,5 @@
   * A type of private network that allows partial access to trusted third parties
 * Intranet
   * A type of privae network for a corporation or organization accessible only to the employees or authorized members
+* Tap
+  * A monitoring port on a network device
