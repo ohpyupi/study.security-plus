@@ -182,3 +182,4 @@
   * No time to wait for other processes
   * Industrial equipment, automobile
   * Military environments
+  * Exteremely sensitive to security issues
