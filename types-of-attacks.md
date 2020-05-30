@@ -118,6 +118,9 @@
 ### MAC flood attack
 * Attempts to overload a switch with different MAC addresses associated with each physical port
 
+### VM Escape
+* The process of breaking out of a virtual machine and interacting with the host OS
+
 ### Misc
 * Two popular methods of driver manipulation are: shimming and refactoring
   * In malware, these are often doen to look for opportunities to take advantage of weak code and look for holes that can be exploited
