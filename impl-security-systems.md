@@ -54,15 +54,19 @@
   * Behavioral
   * Heuristic
   
-### ICS (Incident Command System)
-* A system providing the capability for remote control, real-time monitoring, and gathering information related to industrial equipment
-
 ### HIDS (Host-based IDS)
 * Application-centric IDS
 * Monitor an abnormal activities of a host or an application
 
 ### NIDS (Network-based IDS)
 * Monitors network packets
+
+### ICS (Incident Command System)
+* A system providing the capability for remote control, real-time monitoring, and gathering information related to industrial equipment
+
+### SCADA (Supervisory Control and Data Aquisition)
+* A centralized system that control and monitor the entire sites, or it is a complex system that spreads out over large areas
+* One of examples of industrial control system solutions
 
 ### All-in-one security appliance
 1. URL filter
