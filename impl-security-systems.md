@@ -143,6 +143,7 @@
 
 ### Immutable Server
 * A server that has a configuration for applications and the OS that cannot be changed
+* A DevOps software deployment approach where applications and services are redployed rather than modified whenever a need for introducing change occurs
 
 ### Hypervisor
 * A software that creates and runs virtual machines
