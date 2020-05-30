@@ -107,7 +107,23 @@
       * Cellular data, remote wipe, location tracking, MDM
     * VDI (Virtual Desktop Infrastructure)
       * A mobile device can act as a terminal for accessing data and applications hosted on a remote server
-  
+      * Virtualize the user's desktop and run it in the data center
+      * All of the computing power is in the data center
+      * Enhanced security
+      * Also referred to VDE (Virtual Desktop Environment)
+      * Persistent VDI
+        * Each user runs their own copy of virtual desktop
+        * At the end of a session, user data and personal settings are saved
+
+### CASB (Cloud Access Security Broker)
+* A security policy enforcement software tool or service placed between cloud service users and cloud applications
+* Implemented as client softwares or cloud-based security solutions
+* Capabilities
+  * Visibility
+  * Compliance
+  * Threat prevention
+  * Data security
+
 ### Data Policy
 * Wiping, Disposing, Retention, Policy, and Storage
 
