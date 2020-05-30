@@ -18,9 +18,11 @@
 * Stores keys in a tamper-resistant chip similar to an internal Smartcard
 * Needs to back up the keys after its setup
 * Provides encryption for the drive content
+* An embedded cryptoprocessor that can be found on the motherboard of newer PCs and laptops
 
 ### HSM (Hardware Security Module)
 * Handle cryptographic duties to reduce a server's workload
+* A hardware device or a plugin card used for secure management, processing and storage of cryptographic keys
 
 ### IDS (Intrusion Detection System)
 * components
