@@ -71,6 +71,7 @@
 * Improves network throughput
 
 ### SDN (Software-degined Network)
+* A technology designed to simplify network infrastructure management
 * Provides scalability
 
 ### Network Protocols
