@@ -1,10 +1,10 @@
 # Disaster Recovery and Business Continuity
 ### RAID (Redundant Array of Independent Disks)
 * A storage technology that combines multiple disk drive components into a single logical unit to increase logical volume size, improve performance, ore reliability
-* RAID 1
-  * Refers to disk mirroring. When data is written to one disk, it is duplicated on the second disk
 * RAID 0
   * Striping data across multiple disks to increase performance, but there is no fault-tolerance since a single disk failure would result in the loss of all data
+* RAID 1
+  * Refers to disk mirroring. When data is written to one disk, it is duplicated on the second disk
 * RAID 5
   * Stipes data across disks (minimum of three disks) but distributes parity (recovery) data on disks so that a single disk failure means data can still be reconstructed
 * RAID 5+1
