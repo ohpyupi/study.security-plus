@@ -84,5 +84,6 @@
   * Allow access to the webstie even if one Internet link fails
 * After-action report
   * Takes lessons learned from previous incidents. Essentially they strive to improve upon identified problems that hampered incident response
+* UPS (Uninterruptible Power Supply)
   
 
