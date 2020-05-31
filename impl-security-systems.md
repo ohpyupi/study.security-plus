@@ -213,3 +213,7 @@
 * Code Signing
   * Confiems the applications' source of origin
   * Validates the application's integrity
+* Master image
+  * A reference copy of the entire state of computer system used for mass deployment on multiple devices
+* Rapid Elasticity
+  * A cloud computing term for scalable provisioning, or the ability to provide scalable services
