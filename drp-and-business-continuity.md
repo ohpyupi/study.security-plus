@@ -1,5 +1,6 @@
 # Disaster Recovery and Business Continuity
 ### RAID (Redundant Array of Independent Disks)
+* A storage technology that combines multiple disk drive components into a single logical unit to increase logical volume size, improve performance, ore reliability
 * RAID 1
   * Refers to disk mirroring. When data is written to one disk, it is duplicated on the second disk
 * RAID 0
