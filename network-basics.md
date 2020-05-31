@@ -51,6 +51,7 @@
   * Session affinity - Pass requests consistently from a given client to the same server
 * Active-active - Both load balancers are active
 * Active-passive - Only one load balancer is active while another is on standby mode.
+* Distributive Allocation
 
 ### Virtual IP Address
 * An IP address that does not correspond to any actual physical network interface
