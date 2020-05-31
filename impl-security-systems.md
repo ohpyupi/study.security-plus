@@ -182,6 +182,8 @@
 ### Air Gap Networking
 * Ensures that a secure computer network is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network
 
+### TCP Wrapper
+
 ### Terms.
 * MFD (Multi-functional Devices)
   * For example, a device capable of priting, scanning, and faxing
