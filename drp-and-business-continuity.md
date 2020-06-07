@@ -3,6 +3,7 @@
 * A storage technology that combines multiple disk drive components into a single logical unit to increase logical volume size, improve performance, ore reliability
 * RAID 0
   * Striping data across multiple disks to increase performance, but there is no fault-tolerance since a single disk failure would result in the loss of all data
+  * No redundancy
 * RAID 1
   * Refers to disk mirroring. When data is written to one disk, it is duplicated on the second disk
 * RAID 5
