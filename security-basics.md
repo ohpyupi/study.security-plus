@@ -76,4 +76,5 @@
 * Sandboxing
   * A mechanism for safe execution of untested code or untrusted applications
 * Live Boot Media
+  * Removable storage media that contains a portable, non-persistent OS
   * For examples, CD, DVD, or a USB drive
