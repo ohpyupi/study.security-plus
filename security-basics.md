@@ -75,3 +75,5 @@
   * Describes a text message containing system information details after connecting to a service on a server
 * Sandboxing
   * A mechanism for safe execution of untested code or untrusted applications
+* Live Boot Media
+  * For examples, CD, DVD, or a USB drive
