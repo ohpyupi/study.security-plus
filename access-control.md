@@ -18,6 +18,11 @@
   * Aware of context
   * A "next generation" authorization model
   * Closely resembles natural language
+  * Example of properties
+    * Subject - user, process
+    * Type of action - read, write, execute
+    * Resource type - medical record, bank account
+    * Environment - contextual data, time of day, geolocation
 * Time-of-data Access Control
 * Group-based Access Control
   * Users are placed in groups and permissions are applied to groups
