@@ -3,6 +3,7 @@
 * Mandatory Access Model (MAC)
   * Enforces rules of the OS
   * Uses security labels to classify data
+  * Enforces the strictest set of access rules
 * Discretionary Access Control (DAC)
   * Leaves control of security to the data owner
   * Very flexible, but weak
