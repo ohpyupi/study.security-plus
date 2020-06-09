@@ -69,6 +69,7 @@ Microsoft-proprietary implementation of the CHAP
 * A KDC (Key Distribution Center) and provides keys with certain time limits
 * Can be affected by NTP (Network Time Protocol)
 * KDC composes of Authentication Server and Ticket-granting Server
+* A preferred authentication protocol recommended by Microsoft for MS Windows networks
 
 ### Biometric Authentication
 * CER (Crossover Error Rate)
@@ -84,6 +85,11 @@ Microsoft-proprietary implementation of the CHAP
   * Contains an embedded chip that has personal identification data such as encryption keys or PKI digital certificates
 * Proximity cards
   * A hands-free solution as they only need to be within close range for the reader to work correctly
+  
+### NTLM (Windows NT LAN Manager)
+* The default for network authentication in the Windows NT 4.0 operating system
+* Retained in Windows 2000 for compatibility with down-level clients and servers
+* A proprietary suite of security protocols providing authentication, integrity, and confidentiality to users in MS Windows networks
   
 ### Misc.
 * A computer PKI certificate can grant access to an 802.1x-configured wireless network
