@@ -4,6 +4,17 @@
 * Type 2 - Posession
 * Type 3 - Inheritance
 
+### RADIUS Federation
+* Centralizes authentication
+* Each devices such as VPN appliances forward user authentication requests to the central RADIUS server
+* Clients
+  * Switches
+  * Wireless routers
+  * VPN concentrators
+* Primarily used for network access
+* Combines authentication and authorization
+* Encrypts only the password in the access-request packet
+
 ### TACACS+ (Terminal Access Controller Access Control System)
 * Cisco proprietary network access protocol that uses the reliable TCP transport mechanism
 * Can be used instead of RADIUS (But it didn't succeed RADIUS)
