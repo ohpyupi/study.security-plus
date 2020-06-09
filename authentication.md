@@ -7,7 +7,8 @@
 ### TACACS+ (Terminal Access Controller Access Control System)
 * Cisco proprietary network access protocol that uses the reliable TCP transport mechanism
 * Can be used instead of RADIUS (But it didn't succeed RADIUS)
-* Encrypts the entire packet payload instead of only password, as well as separates authentication, authorization, and accounting duties
+* Encrypts the entire packet payload instead of only password
+* Separates authentication, authorization, and accounting duties
 * Not compatible with TACACS (Old network access standard used primarily in UNIX network environments)
 
 ### LDAP (Lightweight Directory Access Protocol)
