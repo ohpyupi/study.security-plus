@@ -27,6 +27,7 @@
 ### Trusted OS
 * A trusted OS uses a secured OS kernel that supports mandatory access control (MAC), which applies security centrally to adhere with security policies
 * Considered too strict for general use and is typically applicable only in high-security environments
+* Uses MAC access control model
 
 ### Ports
 * FTP -> TCP 20/21
