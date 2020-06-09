@@ -22,8 +22,9 @@
   * Data on a seized hard disk must remain intact
   
 ### Digital Forensic Tools
-* Faraday Bag
+* Faraday bag (Faraday cage)
   * Is a mobile device shield that prevents wireless signals to or from the mobile device
+  * Provides protection against RFI (radio frequency interference ) and EMI (Electromagnetic interference)
 * Antistatic Bag
   * Shields sensitive electronic components from electrostatic discharge but do nothing to prevent wireless signals
 * GPS (Global Positioning System) Jammer
