@@ -125,14 +125,6 @@ Connects device network authentication framework supporting methods such as PIK 
 * Channel Bonding
   * Transmits data over multiple channels simultaneously to achieve greater wireless transmission throughput
   
-### RADIUS Federation
-* Centralizes authentication
-* Each devices such as VPN appliances forward user authentication requests to the central RADIUS server
-* Clients
-  * Switches
-  * Wireless routers
-  * VPN concentrators
-  
 ### RFID (Radio-frequency Identification)
 * Uses electromagnetic fields to automatically identify and track tags attached to objects
 * Examples
