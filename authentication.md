@@ -59,6 +59,7 @@ Microsoft-proprietary implementation of the CHAP
   * Used for authorization
 * Shibboleth
   * Uses SAML
+  * SAML-based SSO (Single Sign-On) system
   * Popular in UNIX and Linux environments
   * Not appropriate for mobile
 * Links
