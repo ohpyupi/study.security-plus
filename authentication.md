@@ -53,12 +53,16 @@ Microsoft-proprietary implementation of the CHAP
 ### Authentication/Authorization Frameworks
 * OpenID Connect
   * Works with OAuth and supports REST
-  * Used for authentication while OAuth for authorization
+  * Sits on top of OAuth that adds login and profile information about the person logged in
+  * Used for authentication
 * OAuth
+  * Used for authorization
 * Shibboleth
   * Uses SAML
   * Popular in UNIX and Linux environments
   * Not appropriate for mobile
+* Links
+  * [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
   
 ### Kerberos
 * A KDC (Key Distribution Center) and provides keys with certain time limits
