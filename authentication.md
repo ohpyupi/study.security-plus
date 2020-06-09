@@ -4,6 +4,9 @@
 * Type 2 - Posession
 * Type 3 - Inheritance
 
+### OATH (Open Authentication)
+An industry-wide collaboration to develop an open reference architecture using open standards to promote the adoption of strong authentication
+
 ### RADIUS Federation
 * Centralizes authentication
 * Each devices such as VPN appliances forward user authentication requests to the central RADIUS server
