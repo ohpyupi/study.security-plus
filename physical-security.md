@@ -18,6 +18,11 @@
 * Minimizes the risk of EMI and reduce data emanations
 * A type of twisted-pair cabling equipped with an additional protective cover that allows for reducing signal interference from outside sources and provides protection against eavesdropping
 
+### Physical Access Control
+* Preventive
+  * Proximity card reader
+  * Smart card reader
+
 ### Misc.
 * To secure switched and routers?
   1. Set a console port password
