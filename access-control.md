@@ -17,6 +17,7 @@
   * An access control using conditions based on attributes such as department, project, and security clearance level
   * Aware of context
   * A "next generation" authorization model
+  * Closely resembles natural language
 * Time-of-data Access Control
 * Group-based Access Control
   * Users are placed in groups and permissions are applied to groups
