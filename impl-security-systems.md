@@ -181,6 +181,7 @@
   
 ### Air Gap Networking
 * Ensures that a secure computer network is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network
+* Provides isolation from external computer networks
 
 ### TCP Wrapper
 
