@@ -30,6 +30,12 @@ A central database that can securely authenticate users or computers
 * A shared secret (for example, password) is known by both parties but never sent over the network
 * Designed to stop a session hijack
 
+### MS-CHAP (Microsoft version of the CHAP)
+Microsoft-proprietary implementation of the CHAP
+* Versions
+  * MS-CHAPv1
+  * MS-CHAPv2 (the latest)
+
 ### Authentication/Authorization Frameworks
 * OpenID Connect
   * Works with OAuth and supports REST
