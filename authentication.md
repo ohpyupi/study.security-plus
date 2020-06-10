@@ -73,7 +73,7 @@ Microsoft-proprietary implementation of the CHAP
 
 ### Biometric Authentication
 * CER (Crossover Error Rate)
- * The point where false rejections and false acceptance are equal
+  * The point where FRR (false rejection rate) and FAR (false acceptance rate) are equal
  
 ### Voice Recognition
 * Systems require training
