@@ -90,6 +90,14 @@ Microsoft-proprietary implementation of the CHAP
 * The default for network authentication in the Windows NT 4.0 operating system
 * Retained in Windows 2000 for compatibility with down-level clients and servers
 * A proprietary suite of security protocols providing authentication, integrity, and confidentiality to users in MS Windows networks
+
+### OTP (One-time Password Algorithms)
+* Valid for only one login session
+* Not vulnerable to replay attacks
+* HOTP (HMAC-based OTP)
+  * Based on a cryptographic hash function and a secret cryptographic key
+* TOTP (Time-based OTP)
+  * Based on a shared secret key and the current time
   
 ### Misc.
 * A computer PKI certificate can grant access to an 802.1x-configured wireless network
