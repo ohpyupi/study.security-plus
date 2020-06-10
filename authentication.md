@@ -99,6 +99,11 @@ Microsoft-proprietary implementation of the CHAP
 * TOTP (Time-based OTP)
   * Based on a shared secret key and the current time
   
+## Certificate-based Authentication
+* PIV (Personal Identity Verification) card
+* CAC (Common Access Card)
+* IEEE 802.1x
+  
 ### Misc.
 * A computer PKI certificate can grant access to an 802.1x-configured wireless network
 * Common access card is used to gain access to more than one type of secured resource
