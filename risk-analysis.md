@@ -55,6 +55,8 @@ Assesses the likelihood of risks that will impede normal business operations and
   * Considers natual factors such as floods and earthquakes as well as facility environmental factors such as HVAC and physical security
 * Impact Analysis
   * Determines how potential risks will affect business operations
+* BPA (Business partners agreement)
+  * Refers to a key document governing the relationship between two business organizations
 * SLA (Service Level Agreement)
   * Defines what type of service a customer can expect and what type of resource is available if that level of service is not provided.
 * MOU (Memorandum of Understanding)
