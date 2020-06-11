@@ -66,9 +66,11 @@
 * MTTF (Mean Time to Failure)
 * RPO (Recovery Point Objective)
   * The amount of time that can elapse after a failure before system and data resume normal operation
+  * The maximum tolerable period of time required for restoring business functions after a failure or disaster
   * Can't exceed the amount of time
-* RTP (Recovery Time Objective)
-  * Denotes the amount of time it will take after an unexpected failure for systems to resum normal operation
+* RTO (Recovery Time Objective)
+  * Denotes the amount of time it will take after an unexpected failure for systems to resume normal operation
+  * The maximum tolerable point in time to which systems and data must be recovered after an outage
     
 ### Privacy
 * Privacy Impact Assessment
