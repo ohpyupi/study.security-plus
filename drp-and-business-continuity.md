@@ -62,7 +62,9 @@
   
 ### Metrics
 * MTTR (Mean Time to Recovery)
+  * An average time to repair a failed component or device
 * MTBF (Mean Time between Failures)
+  * High value indicates that a component or system provides high reliability and is less likely to fail
 * MTTF (Mean Time to Failure)
 * RPO (Recovery Point Objective)
   * The amount of time that can elapse after a failure before system and data resume normal operation
