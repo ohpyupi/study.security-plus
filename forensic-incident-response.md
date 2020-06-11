@@ -80,3 +80,5 @@
 * Swap files
   * Temporary files on a hard disk that are used as virtual memory
 * DoD standard 5220.22-M recommends 7 wipes to completely wipe data
+* System Image
+  * An exact copy of the entire state of a computer system
