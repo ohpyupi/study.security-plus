@@ -79,10 +79,13 @@ Assesses the likelihood of risks that will imSLApede normal business operations 
   * Theft or misappropriation of funds placed in one's trust or belonging to one's employer
 * Risk Transfer
   * Shifts some or all of the burden of risks to a third party
+  * Contracting out a specialized technical component when the company's employees lack the necessary skills
 * Risk Avoidance
   * Deciding to invest heavily in a new product for an uncertain market is a gamble. Deciding against it would be classified as risk avoidance
 * Risk Acceptance
   * Accepting the potential consequences of a threat
+  * Relates closely to the concept of residual risk
+  * Examples
+    * Insurance policy
 * AUP (Acceptable Use Policy)
   * A type of document stipulating rules of behavior followed by users of computers, networks, and associated resources
-  
