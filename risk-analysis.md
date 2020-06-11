@@ -4,10 +4,17 @@
 Categorizes risks (or threats) with general (not hard numerical) terms and numerical ranges
 * Threat must be identified
 * ALE (Annual Loss Expectancy)
+  * A risk assessment formula defining probable financial loss due to a risk over a one-year period
   * Calculated using probability values that vary
-  * = ARO * SLE
+  * ALE = ARO * SLE
 * ARO (Annual Rate of Occurence)
+  * The historical data of how often a threat would be successful in exploiting a vulnerability
 * SLE (Single Loss Expectancy)
+  * The predicted loss of value to an asset based on a single security incident
+  * SLE = AV (Asset Value) * EF
+* Exposure Factor
+  * The percentage of asset lost when a specific threat is realized
+  * Range from 0 to 1
 * Drawbacks
   * Entails complex calculations
   * Time-consuming than qualitative risk analysis
