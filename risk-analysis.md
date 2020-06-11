@@ -13,7 +13,7 @@ Categorizes risks (or threats) with general (not hard numerical) terms and numer
   * Time-consuming than qualitative risk analysis
 
 ### Qualitative Risk Analysis
-Assesses the likelihood of risks that will impede normal business operations and priotizes risks relative to one another
+Assesses the likelihood of risks that will imSLApede normal business operations and priotizes risks relative to one another
 * Asset validation
 * Ranking of potential threats
 * Risk should be ranked by likelihood (same for the quantitative risk analysis)
@@ -55,6 +55,9 @@ Assesses the likelihood of risks that will impede normal business operations and
   * Considers natual factors such as floods and earthquakes as well as facility environmental factors such as HVAC and physical security
 * Impact Analysis
   * Determines how potential risks will affect business operations
+* NDA (Non-disclosure Agreement)
+  * A legal contract between the holder of confidential information and another person to whom that information is discloded.
+  * It prohibits that other person from disclosing the confidential information to any other party
 * BPA (Business partners agreement)
   * Refers to a key document governing the relationship between two business organizations
 * SLA (Service Level Agreement)
@@ -73,5 +76,6 @@ Assesses the likelihood of risks that will impede normal business operations and
   * Deciding to invest heavily in a new product for an uncertain market is a gamble. Deciding against it would be classified as risk avoidance
 * Risk Acceptance
   * Accepting the potential consequences of a threat
-  
+* AUP (Acceptable Use Policy)
+  * A type of document stipulating rules of behavior followed by users of computers, networks, and associated resources
   
