@@ -21,10 +21,6 @@
   * ECDHE (Elliptic Curve Diffi-Hellman Ephemeral)
   * ECC (Eliptic-curve cryptography)
     * Used most often in movile devices
-* Hashing
-  * MD5 (Message Digest 5)
-  * SHA (Secure Hashing Algorithm)
-  * RIPEMD (RACE Integrity Primitives Evaluation Message Digest)
   
 ### Secure Protocol
 * PGP (Pretty Good Privacy)
@@ -65,10 +61,16 @@
 * A standard for digital signatures: DSA (Digital Signature Algorithms)
   
 ### Hashing
-* Diffusion
-  * Describes a situation where a small change introduced to the input data before encryption causes large changes in its encrypted version
-* Confusion
-  * Output of a cryptographic function should be considerably different from the corresponding plaintext input
+* Principles
+  * Diffusion
+    * Describes a situation where a small change introduced to the input data before encryption causes large changes in its encrypted version
+  * Confusion
+    * Output of a cryptographic function should be considerably different from the corresponding plaintext input
+* Examples
+  * MD5 (Message Digest 5)
+  * SHA (Secure Hashing Algorithm)
+  * RIPEMD (RACE Integrity Primitives Evaluation Message Digest)
+  * HMAC (Keyed-Hashing for Message Authentication)
     
 ### Misc.
 * Nonrepudiation
