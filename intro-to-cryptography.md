@@ -79,5 +79,8 @@
   * Much less expensive initially
 * Smartcard
   * Low-power device - still can perform sufficient cryptographic calculations to be used in secure IT environments
-  
-  
+* Security through obscurity
+  * Code obfuscation
+  * Steganography
+  * SSID broadcast suppression
+  * Substitution cipher (Caesar cipher)
