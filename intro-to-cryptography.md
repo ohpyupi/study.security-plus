@@ -62,6 +62,12 @@
   * Integrity
   * Authentication
   * Non-repudiation
+  
+### Hashing
+* Diffusion
+  * Describes a situation where a small change introduced to the input data before encryption causes large changes in its encrypted version
+* Confusion
+  * Output of a cryptographic function should be considerably different from the corresponding plaintext input
     
 ### Misc.
 * Nonrepudiation
