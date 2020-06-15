@@ -61,6 +61,8 @@
   * A person who has specialized knowledge and experience in a field beyond that of the average person, and thus her testimony is deemed authentic
 * Steganography
   * The art of concealing data within other data, such as hidden messages within pictures
+* Archive bit
+  * Indicates if a file has been modified since the last backup
 
 ### Misc.
 * RAID 5 array Imaging
