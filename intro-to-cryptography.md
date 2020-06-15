@@ -71,12 +71,16 @@
   * SHA (Secure Hashing Algorithm)
   * RIPEMD (RACE Integrity Primitives Evaluation Message Digest)
   * HMAC (Keyed-Hashing for Message Authentication)
-    
+  
+* Key stretching
+* Converts weak keys such as passwords into stronger keys that are less susceptible to brute-force attacks
+* Algorithms
+  * Bcrypt
+  * PBKDF2 (Password-Based Key Derivation Function 2)
+
 ### Misc.
 * Nonrepudiation
   * Describes assuarance that a message is authentic and neither party can dispute its transmission or receipt
-* Key stretching
-  * Converts weak keys such as passwords into stronger keys that are less susceptible to brute-force attacks
 * SECaaS (Security as a Service)
   * Provides a subscription-based cloud service that enables organizations to outsource the acquisition and maintenance of security hardware and software while allowing customized threate management configurations
   * Much less expensive initially
@@ -87,3 +91,7 @@
   * Steganography
   * SSID broadcast suppression
   * Substitution cipher (Caesar cipher)
+* Obfuscation methods
+  * Steganography
+  * XOR cipher
+  * ROT13 (Rotate by 13 places)
