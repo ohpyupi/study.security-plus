@@ -52,13 +52,27 @@
   * Provide a foundation for how a business should be run
 * Preventative controls
   * Prevents security breaches, such as the theft as a laptop
+* Preventive control
+  * OS hardening
+  * Separation of duties
+  * Security guards
 * Deterrent controls
   * Discourages malicious or illegal actions but do not necessarily prevents them from happening
   * Are used to warn attackers
-  * For example, lighting, CAPTCHA
+  * For example, lighting, CAPTCHA, warning signs, login banners
 * Detective controls
   * Recognizes malicious activity and generates a notification
+  * Examples
+    * System logs
+    * CCTV
+    * Security audits
 * Compensating controls
   * Used when other specific security requirements cannot be met but are mitigated through a different type of control
+  * Examples
+    * Backup generator
 * Corrective controls
   * Mitigates damage once it has occurred, such as disaster recovery plan
+  * Examples
+    * Backup data recovery
+    * Alternate site
+    * IPS
