@@ -62,6 +62,7 @@
   * Integrity
   * Authentication
   * Non-repudiation
+* A standard for digital signatures: DSA (Digital Signature Algorithms)
   
 ### Hashing
 * Diffusion
