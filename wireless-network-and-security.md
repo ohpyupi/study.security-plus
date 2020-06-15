@@ -94,12 +94,15 @@
 Searches for wireless networks, often from within a moving vehicle
 
 ### EAP (Extensible Authentication Protocol)
-Connects device network authentication framework supporting methods such as PIK certificates, smartcards, and passwords
+* An authentication framework frequently used in wireless networks and point-to-point connections
+* It provides an authentication framework, not a specific authentication mechanism
+* Connects device network authentication framework supporting methods such as PIK certificates, smartcards, and passwords
 * Variants
   * EAP-FAST
     * Exists where password policy cannot be enforced
     * Consists of 3 phases which are provisioning, establishment of a tunnel, and authentication
   * EAP-TLS
+    * Offers the highest level of security
     * EAP with TLS standard
     * Requires both client and server certificates
   * EAP-TTLS
