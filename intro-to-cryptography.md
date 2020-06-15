@@ -13,6 +13,8 @@
   * OTP (One-time pad)
   * CBC (Cipher Block Chaining)
   * ECB (Eletronic Code Book)
+  * GCM (Galois/Counter Mode)
+    * Provides both confidentiality and integrity
 * Asymmetric
   * RSA
   * DHE (Diffi-Hellman Ephemeral)
