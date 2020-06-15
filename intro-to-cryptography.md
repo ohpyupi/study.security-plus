@@ -57,6 +57,12 @@
     * Disable PAP (Password Authentication Protocol) - exposes password in clear-text
     * Enable EAP-TLS (Extensible Authentication Protocol - Transport Layer Security)
     
+### Digital Signature
+* Provides
+  * Integrity
+  * Authentication
+  * Non-repudiation
+    
 ### Misc.
 * Nonrepudiation
   * Describes assuarance that a message is authentic and neither party can dispute its transmission or receipt
