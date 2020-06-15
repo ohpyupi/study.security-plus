@@ -50,6 +50,10 @@
   * For examples, data backups to ensure business continuity
 * Administrative controls
   * Provide a foundation for how a business should be run
+  * Examples
+    * Risk assessments
+    * Escalation procedures
+    * Contingency planning
 * Preventative controls
   * Prevents security breaches, such as the theft as a laptop
 * Preventive control
