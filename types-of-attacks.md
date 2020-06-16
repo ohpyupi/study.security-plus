@@ -81,7 +81,7 @@
 ### Hacking Attack Stages
 * Passive Reconnaissance
   * There is no engagement with the target
-  * For example, gathering information from sources such as archive.og, netcraft.com, or social media
+  * For example, gathering information from sources such as archive.org, netcraft.com, or social media
 * Active Reconnaissance
   * Has a target communication
 
