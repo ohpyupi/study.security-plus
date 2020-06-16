@@ -38,7 +38,7 @@
 * Actively tests security controls
 * Exploits vulnerabilities
 * Pivoting
-  * The practive of using one compromised system as a platform for further attacks on other systems on the same network
+  * The practice of using one compromised system as a platform for further attacks on other systems on the same network
 
 ### Vulnerability Scanning
 * Identifies lack of security controls
