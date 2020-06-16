@@ -22,9 +22,9 @@ Converts data from a format a network can accept to a format that another networ
     * Health check is done when the user authenticates initially
 
 ### Packer-filtering Firewall
-* Filters traffic bIP/Port/Protocol on a packet header
+* Filters traffic IP/Port/Protocol on a packet header
 
-### (SPI) Stateful Packet Filtering Firewall
+### SPI (Stateful Packet Filtering Firewall)
 * Examines each packet for the context in them
 * Able to detect SYN flood and other web attacks
 
