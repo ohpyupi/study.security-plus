@@ -3,7 +3,7 @@
 * Custodian
   * Responsible for maintaining and protecting data based on security policies
 * Data Owner
-  * In charge of owening data assets. Typically executive roles.
+  * In charge of owning data assets. Typically executive roles.
 
 ### Types of Hackers
 * White-hat hackers
