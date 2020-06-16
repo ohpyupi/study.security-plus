@@ -193,7 +193,7 @@
   * A data storage device equipped with a hardware-level encryption functionality
 * Secure supply chain
   * Based on the assumption that all hardware/software should originate from reliable sources
-* SoC (System on a Chio)
+* SoC (System on a Chip)
   * Raspberry Pi
   * Multiple components running on a single chip
 * RTOS (Real-Time Operating System)
