@@ -75,7 +75,7 @@
 ### HVAC (Heating, Ventilating, and Air Conditioning)
 * A complex science
 * PC manages equipment
-* Trandionally not built with secuirty in mind
+* Traditionally not built with secuirty in mind
   * Difficult to recover from an infrastructure DoS
 
 ### All-in-one security appliance
