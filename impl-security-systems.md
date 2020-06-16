@@ -36,7 +36,7 @@
   * Sensor
     * Collects the data from the network segement
   * Manager
-    * An intergace that the human uses to interact with the system
+    * An interface that the human uses to interact with the system
   * Analyzer
     * Analyzes the data
 * Operation modes
