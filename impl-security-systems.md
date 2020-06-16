@@ -140,13 +140,6 @@
 ### Data Communication
 * NFS
 * SATCOM (Satelite Coummunication)
-
-### Hypervisor
-  * Type 1
-    * Runs on a hardware level
-    * Bare metal
-  * Type 2
-    * Runs on an existing OS level
     
 ### VoIP
 * Applying encryption over VoIP can add delay
@@ -166,8 +159,10 @@
 * A software that creates and runs virtual machines
 * Type I
   * Bare metal
+  * Runs on a hardware level
 * Type II
   * Has host OS
+  * Runs on an existing OS level
   
 ### Cloud Services
 * IaaS
