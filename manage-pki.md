@@ -6,7 +6,7 @@
 * Recovery Agent
   * Has an ability to recover encrypted data when the original private key is unavailable
 * CRL (Certificate Revocation List)
-  * published either manually or on an schedule
+  * published either manually or on a schedule
 * RA (Registration Authority)
   * Optional
   * Performs requestor verification before certificates are issued
