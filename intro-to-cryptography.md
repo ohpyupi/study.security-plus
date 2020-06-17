@@ -20,7 +20,7 @@
   * DHE (Diffi-Hellman Ephemeral)
   * ECDHE (Elliptic Curve Diffi-Hellman Ephemeral)
   * ECC (Eliptic-curve cryptography)
-    * Used most often in movile devices
+    * Used most often in mobile devices
   
 ### Secure Protocol
 * PGP (Pretty Good Privacy)
