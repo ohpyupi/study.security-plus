@@ -71,7 +71,6 @@
   * SHA (Secure Hashing Algorithm)
   * RIPEMD (RACE Integrity Primitives Evaluation Message Digest)
   * HMAC (Keyed-Hashing for Message Authentication)
-  
 * Key stretching
 * Converts weak keys such as passwords into stronger keys that are less susceptible to brute-force attacks
 * Algorithms
