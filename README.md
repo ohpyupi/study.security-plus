@@ -1,4 +1,5 @@
 # Study on Security+
+## Table of Contents
 * [Network Basics and Terminologies](network-basics.md)
 * [Introduction to Security Terminologies](security-basics.md)
 * [Security Policies and Standards](security-policies.md)
@@ -17,3 +18,9 @@
 * [Security Assessment and Audits](security-assessment-and-audits.md)
 * [Introduction to Computer Forensics and Incident Response](forensic-incident-response.md)
 * [Understanding Monitoring and Auditing](monitoring-and-auditing.md)
+
+## References
+1. [Professor Messor Security+ Course](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
+2. [Exam Compass Security+ Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
+3. [Crucial Exams Security+ Practice Tests](https://crucialexams.com/exams/comptia/security/sy0-401/)
+4. [CompTIA Security+ Certification Practice Exams, Third Edition (Exam SY0-501)](https://www.amazon.com/gp/product/1260026906/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
