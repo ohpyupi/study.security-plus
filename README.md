@@ -24,3 +24,4 @@
 2. [Exam Compass Security+ Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 3. [Crucial Exams Security+ Practice Tests](https://crucialexams.com/exams/comptia/security/sy0-401/)
 4. [CompTIA Security+ Certification Practice Exams, Third Edition (Exam SY0-501)](https://www.amazon.com/gp/product/1260026906/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+5. [CompTIA Security+ (SY0-501) Practice Exams with Simulations](https://www.udemy.com/course/comptia-security-practice-exams/)
