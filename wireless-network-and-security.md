@@ -2,6 +2,9 @@
 ### Wireless Standard
 * 802.11g
   * 54 Mbps
+  * Backward compatible with 802.11b hardware
+    * Slows down the network speed
+  * Has an option to accept only 802.11g devices
 * 802.11b
   * 11 Mbps
   
