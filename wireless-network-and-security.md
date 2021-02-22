@@ -134,7 +134,7 @@ Searches for wireless networks, often from within a moving vehicle
 ### RFID (Radio-frequency Identification)
 * Uses electromagnetic fields to automatically identify and track tags attached to objects
 * Examples
-  * Implanting RFID microchips in livestock and pets enables psotivie identification of animals
+  * Implanting RFID microchips in livestock and pets enables positive identification of animals
 * Privacy concerns
   * RFID tags can be attached to cash, clothing, and possesions.
   * The possibility of reading personally-linked information without consent has raised serious pricacy concerns
