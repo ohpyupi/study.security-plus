@@ -207,7 +207,7 @@
     * Wireless signal encryption
     * Password Encryption
 * Code Signing
-  * Confiems the applications' source of origin
+  * Confirms the applications' source of origin
   * Validates the application's integrity
 * Master image
   * A reference copy of the entire state of computer system used for mass deployment on multiple devices
