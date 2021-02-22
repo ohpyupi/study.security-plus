@@ -5,7 +5,7 @@ Converts data from a format a network can accept to a format that another networ
 
 ### NAC (Network Access Control)
 * Ensures connecting devices are compliant with configured requirements before allowing network access
-* Ensures fire wall and antivirus in place
+* Ensures firewall and antivirus in place
 * Agents
   * Permanent (persistent) NAC agent
     * Would have impact on visitor devices
