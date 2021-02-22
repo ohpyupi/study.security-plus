@@ -149,7 +149,7 @@
 * Includes firewall, IDS, antivirus, and some other devices
 
 ### VDE (Virtual Desktop Environment)
-* Ensures all workstations have a common configuration, do not contain a rogue software installation, and all patches are ketp up do date
+* Ensures all workstations have a common configuration, do not contain a rogue software installation, and all patches are ketp up-to-date
 
 ### Immutable Server
 * A server that has a configuration for applications and the OS that cannot be changed
